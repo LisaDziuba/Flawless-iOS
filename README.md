@@ -3,21 +3,21 @@
 ## Architecture
 
 ### MVVM
-()[https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b?] by
-()[https://flawlessapp.io/blog/a-taste-of-mvvm-and-reactive-paradigm/] by
-()[https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9] by
-()[https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18] by
-()[https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693] by
+* ()[https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b?] by
+* ()[https://flawlessapp.io/blog/a-taste-of-mvvm-and-reactive-paradigm/] by
+* ()[https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9] by
+* ()[https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18] by
+* ()[https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693] by
 
 ### MVC
-()[https://medium.com/flawless-app-stories/massive-view-controllers-or-bad-coding-style-bf2b0d57c268] by
+* ()[https://medium.com/flawless-app-stories/massive-view-controllers-or-bad-coding-style-bf2b0d57c268] by
 
 ### Modular Architecture
 ()[https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99] by
 ()[https://medium.com/flawless-app-stories/speed-up-your-ios-development-the-moduless-paradigm-part-1-1aab9fae02cd] by
 
 ### Viper
-()[https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2] by
+[Implementing VIPER Architecture Pattern for iOS](https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2) by Mahdi Chtioui
 
 ### Other
 ()[https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3] by

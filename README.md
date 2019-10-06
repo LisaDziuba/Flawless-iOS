@@ -1,28 +1,34 @@
+# Flawless iOS
 ## Architecture
 
-* [Implementing VIPER Architecture Pattern for iOS](Viper) by Mahdi Chtioui
-* [](https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2) by
-* [](Modular Architecture) by
-* [](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) by
-* [](https://medium.com/flawless-app-stories/speed-up-your-ios-development-the-moduless-paradigm-part-1-1aab9fae02cd) by
-* [](MVVM) by
+### MVC
+* [](https://medium.com/flawless-app-stories/massive-view-controllers-or-bad-coding-style-bf2b0d57c268) by
+
+### MVVM
 * [](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b?) by
 * [](https://flawlessapp.io/blog/a-taste-of-mvvm-and-reactive-paradigm/) by
 * [](https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9) by
 * [](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18) by
 * [](https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693) by
-* [](MVC) by
-* [](https://medium.com/flawless-app-stories/massive-view-controllers-or-bad-coding-style-bf2b0d57c268) by
+
+### Modular Architecture
+* [](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) by
+* [](https://medium.com/flawless-app-stories/speed-up-your-ios-development-the-moduless-paradigm-part-1-1aab9fae02cd) by
+
+### Viper 
+* [Implementing VIPER Architecture Pattern for iOS](https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2) by Mahdi Chtioui
 * [](Other) by
 * [](https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3) by
 
 ## Auto Layout
 * [](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f) by
-* [](Closures) by
+
+## Closures
 * [](https://medium.com/flawless-app-stories/simplifying-communication-patterns-with-closure-in-swift-1938414468b3) by
 * [](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef) by
 * [](https://medium.com/flawless-app-stories/closure-in-swift-the-painful-one-7daff52a6e3f) by
-* [](Combine) by
+
+## Combine
 * [](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by
 * [](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by
 * [](Concurrency) by

@@ -164,7 +164,8 @@
 * [](https://medium.com/flawless-app-stories/open-urls-using-the-ios-uiresponder-chain-in-swift-8ca8bc072686) by
 * [](https://medium.com/flawless-app-stories/building-urlrequests-with-ease-f0136cdd56c3) by
 * [](https://medium.com/flawless-app-stories/ios-universal-links-and-app-referrals-using-branchio-integration-31dd474be20) by
-* [](UX & UI design for mobile developers) by
+
+## UX & UI design for mobile developers
 * [](https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49) by
 * [](https://medium.com/flawless-app-stories/30-great-ui-kits-for-ios-engineers-41b2732896b9) by
 * [](https://medium.com/flawless-app-stories/10-year-challenge-how-popular-ios-apps-have-changed-a1e76ce66b55) by
@@ -172,16 +173,20 @@
 * [](https://medium.com/flawless-app-stories/animations-in-ios-tab-bar-concepts-e1fd73ddac67) by
 * [](https://medium.com/flawless-app-stories/ui-vs-print-contradictions-in-typographical-practice-1396b857bcf7) by
 * [](https://medium.com/flawless-app-stories/designers-guide-to-user-data-and-crud-4e53f7c5150d) by
-* [](Writing Better Code) by
-* [](https://medium.com/flawless-app-stories/four-rules-of-simpler-ios-software-design-c371818d08e0) by
-* [](https://medium.com/flawless-app-stories/beautiful-code-principles-39420873eff8) by
-* [](https://medium.com/flawless-app-stories/from-hobbyist-to-professional-ios-developer-solid-part-1-5a256e1d3b43) by
-* [](White Label Solutions) by
+
+## Writing Better Code
+
+* [Beautiful Code Principles ](https://medium.com/flawless-app-stories/beautiful-code-principles-39420873eff8) by Pavle Pesic
+* [Four Rules of Simpler iOS Software Design ](https://medium.com/flawless-app-stories/four-rules-of-simpler-ios-software-design-c371818d08e0) by Arlind Aliu
+* [From hobbyist to professional iOS Developer: Single Responsibility Principle](https://medium.com/flawless-app-stories/from-hobbyist-to-professional-ios-developer-solid-part-1-5a256e1d3b43) by Adrian Zyga
+
+## White Label Solutions
 * [](https://medium.com/flawless-app-stories/managing-white-label-solutions-8ed8ce9d7fa8) by
 * [](https://medium.com/flawless-app-stories/react-native-white-label-101-163c1967c12a) by
 * [](3D Touch) by
 * [](https://medium.com/flawless-app-stories/getting-started-with-3d-touch-peek-pop-swift-d498da57ae19) by
-* [](Uncategorised) by
+
+## Uncategorised
 * [](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270) by
 * [](https://medium.com/flawless-app-stories/secret-variables-in-xcode-and-your-ci-for-fun-and-profit-d387a50475d7) by
 * [](https://medium.com/flawless-app-stories/manage-different-environments-in-your-swift-project-with-ease-659f7f3fb1a6) by

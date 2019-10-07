@@ -50,79 +50,80 @@
 * [Bringing awesome logs to your iOS app 📝](https://medium.com/flawless-app-stories/bringing-awesome-logs-to-your-ios-app-70c18e891723) by Vincent Pradeilles
 
 ## Dependency Injection
-* [](https://medium.com/flawless-app-stories/ios-dependency-injection-using-swinject-9c4ceff99e41) by
+* [iOS Dependency Injection Using Swinject](https://medium.com/flawless-app-stories/ios-dependency-injection-using-swinject-9c4ceff99e41) by Ali Akhtar
 
 ## Flawless App
-* [](https://medium.com/flawless-app-stories/how-flawless-app-will-make-you-a-better-ui-designer-23c7c5338e8c) by
-* [](https://medium.com/flawless-app-stories/flawless-app-update-redesigned-ui-and-ux-dark-mode-and-optimised-file-selection-8675e4751f10) by
+* [How Flawless App will make you a better UI designer](https://medium.com/flawless-app-stories/how-flawless-app-will-make-you-a-better-ui-designer-23c7c5338e8c) by Ahmed Sulaiman
+* [Flawless App update: redesigned UI and UX, dark mode and optimised file selection](https://medium.com/flawless-app-stories/flawless-app-update-redesigned-ui-and-ux-dark-mode-and-optimised-file-selection-8675e4751f10) by Flawless App
 
 ## Flutter
-* [](https://medium.com/flawless-app-stories/flutter-vs-react-native-a-developers-perspective-8914ca240a89) by
+* [Flutter vs React Native: A Developer’s Perspective](https://medium.com/flawless-app-stories/flutter-vs-react-native-a-developers-perspective-8914ca240a89) by Codemagic
 
 ## Frameworks
-* [](https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11) by
-* [](https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5) by
+* [Getting Started with Reusable Frameworks for iOS Development](https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11) by Alec O'Connor
+* [Improve your iOS team’s productivity by building features as frameworks](https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5) by Alexander Freas
 
 ## Git
-* [](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d) by
+* [Useful git commands for everyday use!](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d) by Khoa Pham
 
 ## How to Implement an App: Case-Studies
-* [](https://medium.com/flawless-app-stories/a-christmas-challenge-a-cinema-app-in-just-7-days-1c9aa998e765) by
-* [](https://medium.com/flawless-app-stories/how-i-created-apples-voice-memos-clone-b6cd6d65f580) by
-* [](https://medium.com/flawless-app-stories/creating-game-of-life-on-ios-73bd51b63430) by
+* [A Christmas Challenge — A Cinema app in just 7 days](https://medium.com/flawless-app-stories/a-christmas-challenge-a-cinema-app-in-just-7-days-1c9aa998e765) by James Sherlock
+* [How I created Apple’s Voice Memos clone](https://medium.com/flawless-app-stories/how-i-created-apples-voice-memos-clone-b6cd6d65f580) by Hassan El Desouky
+* [Creating Game of Life on iOS](https://medium.com/flawless-app-stories/creating-game-of-life-on-ios-73bd51b63430) by Arlind Aliu
 
 ## iOS Simulator
-* [](https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b) by
+* [iOS Simulator on steroids: Tips & Tricks](https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b) by Ahmed Sulaiman
 
 ## Implementing Animations in iOS
-* [](https://medium.com/flawless-app-stories/delightful-animations-in-ios-7607e49945eb) by
-* [](https://medium.com/flawless-app-stories/using-sky-segmentation-to-create-stunning-background-animations-in-ios-4b4b2548061) by
-* [](https://medium.com/flawless-app-stories/cool-view-controller-transitions-easy-8390bd8e378) by
-* [](https://medium.com/flawless-app-stories/cool-custom-view-controller-transitions-advanced-df2d0ca08029) by
-* [](https://medium.com/flawless-app-stories/animated-gradient-layers-in-swift-bad094496644) by
+* [Delightful animations in iOS](https://medium.com/flawless-app-stories/delightful-animations-in-ios-7607e49945eb) by Roland Leth
+* [Using Sky Segmentation to create stunning background animations in iOS](https://medium.com/flawless-app-stories/using-sky-segmentation-to-create-stunning-background-animations-in-ios-4b4b2548061) by Eric Hsiao
+* [Cool Custom ViewController Transitions — Easy](https://medium.com/flawless-app-stories/cool-view-controller-transitions-easy-8390bd8e378) by Fran Obarrio
+* [Cool Custom ViewController Transitions — Advanced](https://medium.com/flawless-app-stories/cool-custom-view-controller-transitions-advanced-df2d0ca08029) by Fran Obarrio
+* [Animated gradient layers in Swift](https://medium.com/flawless-app-stories/animated-gradient-layers-in-swift-bad094496644) by Prabhu S
 
 ## Implementing Integrations
-* [](https://medium.com/flawless-app-stories/facebook-account-kit-using-swift-1dfee31ce9dd) by
-* [](https://medium.com/flawless-app-stories/unity-integration-in-native-ios-b5e2ea501477) by
-* [](https://medium.com/flawless-app-stories/scratching-the-firebase-services-with-your-ios-app-c2746881c6d8) by
+* [Facebook Account Kit using Swift](https://medium.com/flawless-app-stories/facebook-account-kit-using-swift-1dfee31ce9dd) by Anas Zaheer
+* [Unity Integration in Native iOS & APIs](https://medium.com/flawless-app-stories/unity-integration-in-native-ios-b5e2ea501477) by Azeem Azeez
+* [Scratching the Firebase services with your iOS app](https://medium.com/flawless-app-stories/scratching-the-firebase-services-with-your-ios-app-c2746881c6d8) by Scratching the Firebase services with your iOS app
 
 ## iOS 11
-* [](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671) by
-* [](iOS 13) by
-* [](https://medium.com/flawless-app-stories/how-to-prepare-your-app-for-ios-13-7ea95c3e5433) by
-* [](https://medium.com/flawless-app-stories/a-swifty-way-to-pick-documents-59cad1988a8a) by
-* [](https://medium.com/flawless-app-stories/ios-13-uisegmentedcontrol-3-important-changes-d3a94fdd6763) by
-* [](https://medium.com/flawless-app-stories/how-to-request-device-motion-and-orientation-permission-in-ios-13-74fc9d6cd140) by
-* [](https://medium.com/flawless-app-stories/how-to-use-full-text-search-on-ios-7cc4553df0e0) by
+* [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671) by Yuri Chukhlib
+
+## iOS 13
+* [How To Prepare Your App For iOS 13](https://medium.com/flawless-app-stories/how-to-prepare-your-app-for-ios-13-7ea95c3e5433) by Attia Mo
+* [A “Swifty” way to pick Documents](https://medium.com/flawless-app-stories/a-swifty-way-to-pick-documents-59cad1988a8a) by Abraham Mangona
+* [iOS 13 UISegmentedControl: 3 important changes](https://medium.com/flawless-app-stories/ios-13-uisegmentedcontrol-3-important-changes-d3a94fdd6763) by Rostyslav Dovhaliuk
+* [How to Request Device Motion and Orientation Permission in iOS 13](https://medium.com/flawless-app-stories/how-to-request-device-motion-and-orientation-permission-in-ios-13-74fc9d6cd140) by Lee Martin
+* [How to use a full-text search on iOS?](https://medium.com/flawless-app-stories/how-to-use-full-text-search-on-ios-7cc4553df0e0) by Pavle Pesic
 
 ## iOS Tips & Tricks
-* [](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-october-edition-ce253347f88a) by
-* [](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-november-edition-bd38edba8ea4) by
-* [](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-december-edition-8134390309e2) by
-* [](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-january-february-edition-4348c1caac2c) by
-* [](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-march-april-edition-8b538f553c83) by
+* [Best iOS hacks from Twitter: October Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-october-edition-ce253347f88a) by Lisa Dziuba
+* [Best iOS hacks from Twitter: November Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-november-edition-bd38edba8ea4) by Lisa Dziuba
+* [Best iOS hacks from Twitter: December Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-december-edition-8134390309e2) by Lisa Dziuba
+* [Best iOS hacks from Twitter: January & February Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-january-february-edition-4348c1caac2c) by Lisa Dziuba
+* [Best iOS hacks from Twitter: March & April Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-march-april-edition-8b538f553c83) by Lisa Dziuba
 
 ## JSON Parsing
-* [](https://medium.com/flawless-app-stories/lets-parse-the-json-like-a-boss-with-swift-codable-protocol-3d4c4290c104) by
+* [Let’s parse the JSON like a Boss with Swift Codable protocol](https://medium.com/flawless-app-stories/lets-parse-the-json-like-a-boss-with-swift-codable-protocol-3d4c4290c104) by Shakti Prakash
 
 ## Localisation
-* [](https://medium.com/flawless-app-stories/dry-string-localization-with-interface-builder-665496eb0270) by
+* [DRY String Localization with Interface Builder](https://medium.com/flawless-app-stories/dry-string-localization-with-interface-builder-665496eb0270) by Victor Pavlychko
 
 ## Machine Learning in iOS
-* [](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1) by
-* [](https://medium.com/flawless-app-stories/machine-learning-in-ios-azure-custom-vision-and-coreml-645e93f35eee) by
-* [](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26) by
+* [Machine Learning in iOS: IBM Watson and CoreML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1) by Khoa Pham
+* [Machine Learning in iOS: Azure Custom Vision and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-azure-custom-vision-and-coreml-645e93f35eee) by Khoa Pham
+* [Machine Learning in iOS: Turi Create and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26) by Khoa Pham
 
 ## Making Xcode Work Better for You
-* [](https://medium.com/flawless-app-stories/become-more-productive-and-efficient-in-xcode-e2b5bc29f1ab) by
-* [](https://medium.com/flawless-app-stories/one-stop-xcode-coziness-ee8dc9c1eb8b) by
-* [](https://medium.com/flawless-app-stories/optimize-swift-build-and-compile-times-in-xcode-8a212e2e7d86) by
-* [](https://medium.com/flawless-app-stories/improve-your-xcode-swift-compile-time-d9c1d3786473) by
+* [Become more productive and efficient in Xcode](https://medium.com/flawless-app-stories/become-more-productive-and-efficient-in-xcode-e2b5bc29f1ab) by Farhan Syed
+* [One-Stop Xcode Coziness](https://medium.com/flawless-app-stories/one-stop-xcode-coziness-ee8dc9c1eb8b) by Wendy Liga
+* [Optimize Swift build and compile times in Xcode](https://medium.com/flawless-app-stories/optimize-swift-build-and-compile-times-in-xcode-8a212e2e7d86) by Batikan
+* [Improve your Xcode (Swift) Compile Time](https://medium.com/flawless-app-stories/improve-your-xcode-swift-compile-time-d9c1d3786473) by Alexandros Smponias
 
 ## Memory Management
-* [](https://medium.com/flawless-app-stories/memory-leaks-in-swift-bfd5f95f3a74) by
-* [](https://medium.com/flawless-app-stories/ios-memory-management-in-under-6-minutes-3be777f69b7e) by
-* [](https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217) by
+* [Memory Leaks in Swift](https://medium.com/flawless-app-stories/memory-leaks-in-swift-bfd5f95f3a74) by Leandro Pérez
+* [iOS Memory Management in Under 6 Minutes](https://medium.com/flawless-app-stories/ios-memory-management-in-under-6-minutes-3be777f69b7e) by Hassan El Desouky
+* [Reducing Memory Footprint and OOM Terminations in iOS](https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217) by Leandro Pérez
 
 ## Navigation
 * [](https://medium.com/flawless-app-stories/creating-a-uitabbarcontroller-framework-8bd7b1289244) by

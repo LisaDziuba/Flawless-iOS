@@ -5,50 +5,49 @@
 * [“Massive” View Controllers or bad coding style?](https://medium.com/flawless-app-stories/massive-view-controllers-or-bad-coding-style-bf2b0d57c268) by Besar
 
 ### MVVM
-* [](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b?) by
-* [](https://flawlessapp.io/blog/a-taste-of-mvvm-and-reactive-paradigm/) by
-* [](https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9) by
-* [](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18) by
-* [](https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693) by
+* [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b?) by S.T.Huang
+* [A taste of MVVM and Reactive paradigm](https://flawlessapp.io/blog/a-taste-of-mvvm-and-reactive-paradigm/) by Khoa Pham
+* [Advanced iOS tutorial on MVVM](https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9) by Flawless App
+* [Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18) by S.T.Huang
+* [Practical MVVM + RxSwift](https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693) by Mohammad Zakizadeh
 
 ### Modular Architecture
-* [](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) by
-* [](https://medium.com/flawless-app-stories/speed-up-your-ios-development-the-moduless-paradigm-part-1-1aab9fae02cd) by
+* [Modular Architecture in iOS](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) by Leandro Pérez
+* [Speed Up your iOS Development: The Modules’s Paradigm](https://medium.com/flawless-app-stories/speed-up-your-ios-development-the-moduless-paradigm-part-1-1aab9fae02cd) by Francisco Javier Trujillo Mata
 
 ### Viper 
 * [Implementing VIPER Architecture Pattern for iOS](https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2) by Mahdi Chtioui
-* [](Other) by
-* [](https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3) by
+* [App Architecture and Object Composition in Swift](https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3) by Dmytro Anokhin
 
 ## Auto Layout
-* [](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f) by
+* [How to make Auto Layout more convenient in iOS](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f) by Khoa Pham
 
 ## Closures
-* [](https://medium.com/flawless-app-stories/simplifying-communication-patterns-with-closure-in-swift-1938414468b3) by
-* [](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef) by
-* [](https://medium.com/flawless-app-stories/closure-in-swift-the-painful-one-7daff52a6e3f) by
+* [Simplifying communication patterns with closure in Swift](https://medium.com/flawless-app-stories/simplifying-communication-patterns-with-closure-in-swift-1938414468b3) by Khoa Pham
+* [You don’t (always) need [weak self]](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef) by Besher Al Maleh
+* [Closure in Swift: The Painful one!](https://medium.com/flawless-app-stories/closure-in-swift-the-painful-one-7daff52a6e3f) by Shubham Bakshi
 
 ## Combine
-* [](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by
-* [](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by
+* [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by Arlind Aliu
+* [Will Combine kill RxSwift?](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by MortyMerr
 
 ## Concurrency
-* [](https://medium.com/flawless-app-stories/parallel-programming-with-swift-what-could-possibly-go-wrong-f5bcc38b1814) by
-* [](https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287) by
-* [](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0) by
-* [](https://medium.com/flawless-app-stories/parallel-programming-with-swift-promises-740be1a260ed) by
-* [](https://medium.com/flawless-app-stories/multithreaded-programming-in-ios-9de206afa620) by
+* [Parallel Programming with Swift: What could possibly go wrong?](https://medium.com/flawless-app-stories/parallel-programming-with-swift-what-could-possibly-go-wrong-f5bcc38b1814) by Jan Olbrich
+* [Parallel programming with Swift: Basics](https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287) by Jan Olbrich
+* [Parallel programming with Swift: Operations](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0) by Jan Olbrich
+* [Parallel programming with Swift: Promises](https://medium.com/flawless-app-stories/parallel-programming-with-swift-promises-740be1a260ed) by Jan Olbrich
+* [Multithreaded Programming in iOS](https://medium.com/flawless-app-stories/multithreaded-programming-in-ios-9de206afa620) by Medi Assumani
 
 ## Continuous Integration & Continuous Delivery
-* [](https://medium.com/flawless-app-stories/how-to-set-up-gitlab-continuous-integration-for-ios-projects-without-a-hustle-53c2b642c90f) by
-* [](https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5) by
-* [](https://medium.com/flawless-app-stories/automate-your-ios-apps-using-bitrise-6ded1712842b) by
-* [](https://medium.com/flawless-app-stories/continuous-integration-for-flutter-with-codemagic-239aa206a70) by
-* [](https://medium.com/flawless-app-stories/ios-continuous-integration-with-gitlab-ci-fastlane-and-ota-installation-from-gitlab-pages-f312e07ab06e) by
+* [How to set up GitLab Continuous Integration for iOS projects without a hassle](https://medium.com/flawless-app-stories/how-to-set-up-gitlab-continuous-integration-for-ios-projects-without-a-hustle-53c2b642c90f) by Victor Peschenkov
+* [Build it, Test it, Deliver it! Complete iOS Guide on Continuous Delivery with fastlane and Jenkins](https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5) by S.T.Huang
+* [Automate your iOS apps using Bitrise](https://medium.com/flawless-app-stories/automate-your-ios-apps-using-bitrise-6ded1712842b) by Gokhan Gultekin
+* [Continuous Integration for Flutter with Codemagic](https://medium.com/flawless-app-stories/continuous-integration-for-flutter-with-codemagic-239aa206a70) by Codemagic
+* [iOS Continuous Integration with GitLab CI, Fastlane & OTA Installation](https://medium.com/flawless-app-stories/ios-continuous-integration-with-gitlab-ci-fastlane-and-ota-installation-from-gitlab-pages-f312e07ab06e) by Leszek Szary
 
 ## Debugging
-* [](https://medium.com/flawless-app-stories/advanced-debugging-with-xcode-5e6c8dabd311) by
-* [](https://medium.com/flawless-app-stories/bringing-awesome-logs-to-your-ios-app-70c18e891723) by
+* [Advanced debugging with Xcode](https://medium.com/flawless-app-stories/advanced-debugging-with-xcode-5e6c8dabd311) by Vincent Pradeilles
+* [Bringing awesome logs to your iOS app 📝](https://medium.com/flawless-app-stories/bringing-awesome-logs-to-your-ios-app-70c18e891723) by Vincent Pradeilles
 
 ## Dependency Injection
 * [](https://medium.com/flawless-app-stories/ios-dependency-injection-using-swinject-9c4ceff99e41) by

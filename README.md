@@ -1,5 +1,64 @@
 # Flawless iOS
 
+## Table of Content
+* [Architecture](#architecture)
+  * [MVC](#mvc)
+  * [MVVM](#mvvm)
+  * [Modular Architecture](#modular-architecture)
+  * [Viper](#viper)
+* [Auto Layout](#auto-layout)
+* [Closures](#closures)
+* [CocoaPods](#cocoapods)
+* [Combine](#combine)
+* [Concurrency](#concurrency)
+* [Continuous Integration & Continuous Delivery](#continuous-integration--continuous-delivery)
+* [Curation](#curation)
+* [Data Structure](#data-structure)
+* [Debugging](#debugging)
+* [Deep Dive](#deep-dive)
+* [Dependency Injection](#dependency-injection)
+* [Flawless App](#flawless-app)
+* [Flutter](#flutter)
+* [Frameworks](#frameworks)
+* [Git](#git)
+* [How to Implement an App: Case-Studies](#how-to-implement-an-app-case-studies)
+* [Image](#image)
+* [Implementing Animations in iOS](#implementing-animations-in-ios)
+* [Implementing Integrations](#implementing-integrations)
+* [iOS 11](#ios-11)
+* [iOS 12](#ios-12)
+* [iOS 13](#ios-13)
+* [iOS Simulator](#ios-simulator)
+* [iOS Tips & Tricks](#ios-tips--tricks)
+* [iPadOS](#ipados)
+* [JSON Parsing](#json-parsing)
+* [Localisation](#localisation)
+* [Machine Learning in iOS](#machine-learning-in-ios)
+* [Making Xcode Work Better for You](#making-xcode-work-better-for-you)
+* [Memory Management](#memory-management)
+* [Navigation](#navigation)
+* [Patterns](#patterns)
+* [Playgrround](#playgrround)
+* [Protocols](#protocols)
+* [Push Notifications](#push-notifications)
+* [RxSwift](#rxswift)
+* [Siri](#siri)
+* [Soft Skills](#soft-skills)
+* [Sourcery](#sourcery)
+* [Speeding up workflow & productivity tips](#speeding-up-workflow--productivity-tips)
+* [Storyboards](#storyboards)
+* [Swift](#swift)
+* [SwiftUI](#swiftui)
+* [Testing](#testing)
+* [Texture](#texture)
+* [Tutorial](#tutorial)
+* [UIKit](#uikit)
+* [URLs](#urls)
+* [UX & UI design for mobile developers](#ux--ui-design-for-mobile-developers)
+* [White Label Solutions](#white-label-solutions)
+* [Writing Better Code](#writing-better-code)
+* [3D Touch](#3d-touch)
+
 ## Architecture
 
 ### MVC+
@@ -8,7 +67,7 @@
 ### MVVM
 * [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b?) by S.T.Huang
 * [A taste of MVVM and Reactive paradigm](https://flawlessapp.io/blog/a-taste-of-mvvm-and-reactive-paradigm/) by Khoa Pham
-* [Advanced iOS tutorial on MVVM](https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9) by Flawless App
+* [Advanced iOS tutorial on MVVM](https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9) by ShihTing Huang
 * [Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18) by S.T.Huang
 * [Practical MVVM + RxSwift](https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693) by Mohammad Zakizadeh
 
@@ -48,7 +107,7 @@
 * [Automate your iOS apps using Bitrise](https://medium.com/flawless-app-stories/automate-your-ios-apps-using-bitrise-6ded1712842b) by Gokhan Gultekin
 * [Continuous Integration for Flutter with Codemagic](https://medium.com/flawless-app-stories/continuous-integration-for-flutter-with-codemagic-239aa206a70) by Codemagic
 * [iOS Continuous Integration with GitLab CI, Fastlane & OTA Installation](https://medium.com/flawless-app-stories/ios-continuous-integration-with-gitlab-ci-fastlane-and-ota-installation-from-gitlab-pages-f312e07ab06e) by Leszek Szary
-* [Secret variables in Xcode AND your CI for fun and profit 💌](https://medium.com/flawless-app-stories/secret-variables-in-xcode-and-your-ci-for-fun-and-profit-d387a50475d7) by Robin Malhotra
+* [Secret variables in Xcode AND your CI for fun and profit](https://medium.com/flawless-app-stories/secret-variables-in-xcode-and-your-ci-for-fun-and-profit-d387a50475d7) by Robin Malhotra
 
 ## Curation
 * [Awesome Ladies iOS Engineers to Follow on Twitter](https://medium.com/flawless-app-stories/awesome-ladies-ios-engineers-to-follow-on-twitter-4fd9dff8b242) by Lisa Dziuba
@@ -60,7 +119,7 @@
 
 ## Debugging
 * [Advanced debugging with Xcode](https://medium.com/flawless-app-stories/advanced-debugging-with-xcode-5e6c8dabd311) by Vincent Pradeilles
-* [Bringing awesome logs to your iOS app 📝](https://medium.com/flawless-app-stories/bringing-awesome-logs-to-your-ios-app-70c18e891723) by Vincent Pradeilles
+* [Bringing awesome logs to your iOS app](https://medium.com/flawless-app-stories/bringing-awesome-logs-to-your-ios-app-70c18e891723) by Vincent Pradeilles
 
 ## Deep Dive
 * [IPC — Mach Message](https://medium.com/flawless-app-stories/ipc-mach-message-cab64ff1b569) by Ali Pourhadi
@@ -120,6 +179,7 @@
 * [iOS Simulator on steroids: Tips & Tricks](https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b) by Ahmed Sulaiman
 
 ## iOS Tips & Tricks
+* [iOS project best practices and tools](https://medium.com/flawless-app-stories/ios-project-best-practices-and-tools-c46135b8116d) by Piotr Gorzelany
 * [Best iOS hacks from Twitter: October Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-october-edition-ce253347f88a) by Lisa Dziuba
 * [Best iOS hacks from Twitter: November Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-november-edition-bd38edba8ea4) by Lisa Dziuba
 * [Best iOS hacks from Twitter: December Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-december-edition-8134390309e2) by Lisa Dziuba
@@ -127,7 +187,8 @@
 * [Best iOS hacks from Twitter: March & April Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-march-april-edition-8b538f553c83) by Lisa Dziuba
 
 ## iPadOS
-* [Multi-window development in iPadOS](https://medium.com/flawless-app-stories/multi-window-development-in-ipados-cd6e5de0bc2c) by Chris Mash* [Using native Apple’s Places](https://medium.com/flawless-app-stories/using-native-apples-places-f5a4a462a8e5) by Andrew Konovalskyi
+* [Multi-window development in iPadOS](https://medium.com/flawless-app-stories/multi-window-development-in-ipados-cd6e5de0bc2c) by Chris Mash
+* [Using native Apple’s Places](https://medium.com/flawless-app-stories/using-native-apples-places-f5a4a462a8e5) by Andrew Konovalskyi
 
 ## JSON Parsing
 * [Let’s parse the JSON like a Boss with Swift Codable protocol](https://medium.com/flawless-app-stories/lets-parse-the-json-like-a-boss-with-swift-codable-protocol-3d4c4290c104) by Shakti Prakash
@@ -177,7 +238,7 @@
 * [Simplifying RxSwift code](https://medium.com/flawless-app-stories/simplifying-rxswift-code-78071d5b780) by MortyMerr
 * [Reactive Heart Rate Monitors in Swift](https://medium.com/flawless-app-stories/https-medium-com-leandromperez-reactive-heart-rate-monitors-9e68a31a88b) by Leandro Pérez
 
-# Siri
+## Siri
 * [WWDC 2018 for iOS developers: Siri Shortcuts](https://medium.com/flawless-app-stories/wwdc-2018-for-ios-developers-siri-shortcuts-e8e4a78f0ad7) by Jan Olbrich
 * [Ask user input from Siri in custom Intent for iOS 13](https://medium.com/flawless-app-stories/ask-user-input-from-siri-in-custom-intent-for-ios-13-3db243b9d739) by Abhilash Mathur
 
@@ -207,6 +268,7 @@
 * [My takeaway from working with SwiftUI](https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555) by Abbas, T Khan
 * [SwiftUI — How to setup a project](https://medium.com/flawless-app-stories/swiftui-getting-started-372389fff423) by Martin Lasek
 * [SwiftUI - Understanding State](https://medium.com/flawless-app-stories/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
+* [SwiftUI - Dynamic List & Identifiable](https://medium.com/flawless-app-stories/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
 * [SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082) by Peter Friese
 * [Tips & Tricks: Remaking the 2048 game with SwiftUI and Combine](https://medium.com/flawless-app-stories/2048-swiftui-dda67949beb) by Carlos Corrêa
 * [The Simple Life(cycle) of a SwiftUI View](https://medium.com/flawless-app-stories/the-simple-life-cycle-of-a-swiftui-view-95e2e14848a2) by Danny Bolella
@@ -237,12 +299,13 @@
 ## UIKit
 * [Speed Up your iOS Development: Demystifying complex UIViews using Decorators](https://medium.com/flawless-app-stories/speed-up-your-ios-development-demystifying-complex-uiviews-using-decorators-866d36279166) by Francisco Javier Trujillo Mata
 * [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86) by Khoa Pham
-* [Infinite UIScrollView](https://medium.com/flawless-app-stories/infinite-uiscrollview-b516a5d14caf) by aybek can kaya
+* [Infinite UIScrollView](https://medium.com/flawless-app-stories/infinite-uiscrollview-b516a5d14caf) by Aybek Can Kaya
 * [Container View Controllers Redux](https://medium.com/flawless-app-stories/container-view-controllers-revisited-e076ef38853f) by Dennis Walsh
 * [Exploring View Hierarchy](https://medium.com/flawless-app-stories/exploring-view-hierarchy-332ea63262e9) by Dmytro Anokhin
-* [How to use UICollectionViewDiffableDataSource](https://medium.com/flawless-app-stories/how-to-use-uicollectionviewdiffabledatasource-55c60e9d3897) by Aleksej Gurin
 * [How to create reusable UIViews in Swift](https://medium.com/flawless-app-stories/reusable-uiviews-in-swift-3f9dca63eaf4) by Pablo Blanco
+* [How to use UICollectionViewDiffableDataSource](https://medium.com/flawless-app-stories/how-to-use-uicollectionviewdiffabledatasource-55c60e9d3897) by Aleksej Gurin
 * [All you need to know about UICollectionViewCompositionalLayout](https://medium.com/flawless-app-stories/all-what-you-need-to-know-about-uicollectionviewcompositionallayout-f3b2f590bdbe) by Aleksej Gurin
+* [How to build complex layout using UICollectionViewCompositionalLayout and UICollectionViewDiffableDataSource](https://medium.com/flawless-app-stories/how-to-build-complex-layout-using-uicollectionviewcompositionallayout-and-9448b11dcbee) by Aleksej Gurin
 
 ## URLs
 * [URL Routing in iOS apps: Compass Beginner Guide](https://medium.com/flawless-app-stories/url-routing-with-compass-d59c0061e7e2) by Khoa Pham

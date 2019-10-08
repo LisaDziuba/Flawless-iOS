@@ -4,6 +4,10 @@
    </a>
 </p>
 
+Hey to all the mobile community! Since 2016 we have been curating [Flawless iOS](https://medium.com/flawless-app-stories), a community-driven blog about iOS development. So far it's the biggest iOS blog on Medium with both beginner and advanced iOS guides, written by fellow developers. It's updated daily!
+
+We are proud to have more than 80 writers and 200+ free iOS guides there. All of the Flawless iOS guides, you can find in this repo. And if you wish to read great iOS content, [follow our publication on Medium](https://medium.com/flawless-app-stories).
+
 ## Table of Content
 * [Architecture](#architecture)
   * [MVC](#mvc)

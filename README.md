@@ -1,5 +1,11 @@
 # Flawless iOS
 
+<p align="center">
+   <a href="https://medium.com/flawless-app-stories">
+       <img src="image%2010.png" alt="Flawless iOS cover"/>
+   </a>
+</p>
+
 ## Table of Content
 * [Architecture](#architecture)
   * [MVC](#mvc)
@@ -67,7 +73,7 @@
 ### MVVM
 * [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b?) by S.T.Huang
 * [A taste of MVVM and Reactive paradigm](https://flawlessapp.io/blog/a-taste-of-mvvm-and-reactive-paradigm/) by Khoa Pham
-* [Advanced iOS tutorial on MVVM](https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9) by ShihTing Huang
+* [Advanced iOS tutorial on MVVM](https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9) by S.T.Huang
 * [Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18) by S.T.Huang
 * [Practical MVVM + RxSwift](https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693) by Mohammad Zakizadeh
 
@@ -78,6 +84,13 @@
 ### Viper 
 * [Implementing VIPER Architecture Pattern for iOS](https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2) by Mahdi Chtioui
 * [App Architecture and Object Composition in Swift](https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3) by Dmytro Anokhin
+
+<p align="center">
+    <a href="https://medium.com/flawless-app-stories">
+       <img src="arhitecture_visual.png" alt="Flawless iOS cover"/>
+   </a>
+</p>
+
 
 ## Auto Layout
 * [How to make Auto Layout more convenient in iOS](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f) by Khoa Pham
@@ -159,7 +172,7 @@
 ## Implementing Integrations
 * [Facebook Account Kit using Swift](https://medium.com/flawless-app-stories/facebook-account-kit-using-swift-1dfee31ce9dd) by Anas Zaheer
 * [Unity Integration in Native iOS & APIs](https://medium.com/flawless-app-stories/unity-integration-in-native-ios-b5e2ea501477) by Azeem Azeez
-* [Scratching the Firebase services with your iOS app](https://medium.com/flawless-app-stories/scratching-the-firebase-services-with-your-ios-app-c2746881c6d8) by Scratching the Firebase services with your iOS app
+* [Scratching the Firebase services with your iOS app](https://medium.com/flawless-app-stories/scratching-the-firebase-services-with-your-ios-app-c2746881c6d8) by Deyan Aleksandrov
 
 ## iOS 11
 * [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671) by Yuri Chukhlib
@@ -265,7 +278,7 @@
 * [Stubbing in pair with Swift compiler: a spy registration](https://medium.com/flawless-app-stories/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1) by Bartosz Polaczyk
 
 ## SwiftUI
-* [My takeaway from working with SwiftUI](https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555) by Abbas, T Khan
+* [My takeaway from working with SwiftUI](https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555) by T. Khan Abbas
 * [SwiftUI — How to setup a project](https://medium.com/flawless-app-stories/swiftui-getting-started-372389fff423) by Martin Lasek
 * [SwiftUI - Understanding State](https://medium.com/flawless-app-stories/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
 * [SwiftUI - Dynamic List & Identifiable](https://medium.com/flawless-app-stories/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
@@ -277,7 +290,7 @@
 * [Fast app prototyping with SwiftUI](https://medium.com/flawless-app-stories/fast-app-prototyping-with-swiftui-39ae03ab3eaa) by Carlos Corrêa
 * [SwiftUI Accessibility: Sort Priority](https://medium.com/flawless-app-stories/swiftui-accessibility-sort-priority-3c878306ef19) by Rob Whitaker
 * [SwiftUI Accessibility: Named Controls](https://medium.com/flawless-app-stories/swiftui-accessibility-named-controls-298766c454bc) by Rob Whitaker
-* [SwiftUI Accessibility: Images](https://medium.com/flawless-app-stories/swiftui-image-accessibility-f3ca19aefdb1) by ob Whitaker
+* [SwiftUI Accessibility: Images](https://medium.com/flawless-app-stories/swiftui-image-accessibility-f3ca19aefdb1) by Rob Whitaker
 
 ## Testing
 * [Automated UI Testing in Swift & iOS](https://medium.com/flawless-app-stories/automated-ui-testing-in-swift-ios-46e1c9993316) by Joe Williams
@@ -325,7 +338,7 @@
 
 ## White Label Solutions
 * [Managing White Label Solutions](https://medium.com/flawless-app-stories/managing-white-label-solutions-8ed8ce9d7fa8) by Nabil Kazi
-* [React Native App : White Label 101](https://medium.com/flawless-app-stories/react-native-white-label-101-163c1967c12a) by Sean Najera
+* [React Native App: White Label 101](https://medium.com/flawless-app-stories/react-native-white-label-101-163c1967c12a) by Sean Najera
 
 ## Writing Better Code
 * [Beautiful Code Principles](https://medium.com/flawless-app-stories/beautiful-code-principles-39420873eff8) by Pavle Pesic

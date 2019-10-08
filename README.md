@@ -1,5 +1,3 @@
-# Flawless iOS
-
 <p align="center">
    <a href="https://medium.com/flawless-app-stories">
        <img src="image%2010.png" alt="Flawless iOS cover"/>
@@ -31,11 +29,11 @@
 * [Image](#image)
 * [Implementing Animations in iOS](#implementing-animations-in-ios)
 * [Implementing Integrations](#implementing-integrations)
-* [iOS 11](#ios-11)
-* [iOS 12](#ios-12)
-* [iOS 13](#ios-13)
+* [iOS](#ios)
+   * [iOS 11](#ios-11)
+   * [iOS 12](#ios-12)
+   * [iOS 13](#ios-13)
 * [iOS Simulator](#ios-simulator)
-* [iOS Tips & Tricks](#ios-tips--tricks)
 * [iPadOS](#ipados)
 * [JSON Parsing](#json-parsing)
 * [Localisation](#localisation)
@@ -122,6 +120,12 @@
 * [iOS Continuous Integration with GitLab CI, Fastlane & OTA Installation](https://medium.com/flawless-app-stories/ios-continuous-integration-with-gitlab-ci-fastlane-and-ota-installation-from-gitlab-pages-f312e07ab06e) by Leszek Szary
 * [Secret variables in Xcode AND your CI for fun and profit](https://medium.com/flawless-app-stories/secret-variables-in-xcode-and-your-ci-for-fun-and-profit-d387a50475d7) by Robin Malhotra
 
+<p align="center">
+    <a href="https://medium.com/flawless-app-stories">
+       <img src="Continuous Integration & Continuous Delivery (1).png" alt="Flawless iOS cover"/>
+   </a>
+</p>
+
 ## Curation
 * [Awesome Ladies iOS Engineers to Follow on Twitter](https://medium.com/flawless-app-stories/awesome-ladies-ios-engineers-to-follow-on-twitter-4fd9dff8b242) by Lisa Dziuba
 * [15 great iOS newsletters you should know about](https://medium.com/flawless-app-stories/15-great-ios-newsletters-you-should-know-about-e32978dd20e1) by Lisa Dziuba
@@ -169,35 +173,40 @@
 * [Cool Custom ViewController Transitions — Advanced](https://medium.com/flawless-app-stories/cool-custom-view-controller-transitions-advanced-df2d0ca08029) by Fran Obarrio
 * [Animated gradient layers in Swift](https://medium.com/flawless-app-stories/animated-gradient-layers-in-swift-bad094496644) by Prabhu S
 
+<p align="center">
+    <a href="https://medium.com/flawless-app-stories">
+       <img src="Implementing Animations in iOS.png" alt="Flawless iOS cover"/>
+   </a>
+</p>
+
 ## Implementing Integrations
 * [Facebook Account Kit using Swift](https://medium.com/flawless-app-stories/facebook-account-kit-using-swift-1dfee31ce9dd) by Anas Zaheer
 * [Unity Integration in Native iOS & APIs](https://medium.com/flawless-app-stories/unity-integration-in-native-ios-b5e2ea501477) by Azeem Azeez
 * [Scratching the Firebase services with your iOS app](https://medium.com/flawless-app-stories/scratching-the-firebase-services-with-your-ios-app-c2746881c6d8) by Deyan Aleksandrov
 
-## iOS 11
+## iOS
+### iOS 11
 * [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671) by Yuri Chukhlib
 
-## iOS 12
+### iOS 12
 
 * [All about iOS 12 Autofill Passwords Tool API’s](https://medium.com/flawless-app-stories/all-about-ios-12-autofill-passwords-tool-apis-8f095127fd99) by Ali Akhtar
 
-## iOS 13
+### iOS 13
 * [How To Prepare Your App For iOS 13](https://medium.com/flawless-app-stories/how-to-prepare-your-app-for-ios-13-7ea95c3e5433) by Attia Mo
 * [A “Swifty” way to pick Documents](https://medium.com/flawless-app-stories/a-swifty-way-to-pick-documents-59cad1988a8a) by Abraham Mangona
 * [iOS 13 UISegmentedControl: 3 important changes](https://medium.com/flawless-app-stories/ios-13-uisegmentedcontrol-3-important-changes-d3a94fdd6763) by Rostyslav Dovhaliuk
 * [How to Request Device Motion and Orientation Permission in iOS 13](https://medium.com/flawless-app-stories/how-to-request-device-motion-and-orientation-permission-in-ios-13-74fc9d6cd140) by Lee Martin
 * [How to use a full-text search on iOS?](https://medium.com/flawless-app-stories/how-to-use-full-text-search-on-ios-7cc4553df0e0) by Pavle Pesic
 
+<p align="center">
+    <a href="https://medium.com/flawless-app-stories">
+       <img src="iOS (1).png" alt="Flawless iOS cover"/>
+   </a>
+</p>
+
 ## iOS Simulator
 * [iOS Simulator on steroids: Tips & Tricks](https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b) by Ahmed Sulaiman
-
-## iOS Tips & Tricks
-* [iOS project best practices and tools](https://medium.com/flawless-app-stories/ios-project-best-practices-and-tools-c46135b8116d) by Piotr Gorzelany
-* [Best iOS hacks from Twitter: October Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-october-edition-ce253347f88a) by Lisa Dziuba
-* [Best iOS hacks from Twitter: November Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-november-edition-bd38edba8ea4) by Lisa Dziuba
-* [Best iOS hacks from Twitter: December Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-december-edition-8134390309e2) by Lisa Dziuba
-* [Best iOS hacks from Twitter: January & February Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-january-february-edition-4348c1caac2c) by Lisa Dziuba
-* [Best iOS hacks from Twitter: March & April Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-march-april-edition-8b538f553c83) by Lisa Dziuba
 
 ## iPadOS
 * [Multi-window development in iPadOS](https://medium.com/flawless-app-stories/multi-window-development-in-ipados-cd6e5de0bc2c) by Chris Mash
@@ -265,6 +274,18 @@
 
 ## Speeding up workflow & productivity tips
 * [Squeezing Xcode for hard drive space](https://medium.com/flawless-app-stories/saving-space-as-an-ios-developer-c09f5b6af395) by Chris Mash
+* [iOS project best practices and tools](https://medium.com/flawless-app-stories/ios-project-best-practices-and-tools-c46135b8116d) by Piotr Gorzelany
+* [Best iOS hacks from Twitter: October Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-october-edition-ce253347f88a) by Lisa Dziuba
+* [Best iOS hacks from Twitter: November Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-november-edition-bd38edba8ea4) by Lisa Dziuba
+* [Best iOS hacks from Twitter: December Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-december-edition-8134390309e2) by Lisa Dziuba
+* [Best iOS hacks from Twitter: January & February Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-january-february-edition-4348c1caac2c) by Lisa Dziuba
+* [Best iOS hacks from Twitter: March & April Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-march-april-edition-8b538f553c83) by Lisa Dziuba
+
+<p align="center">
+    <a href="https://medium.com/flawless-app-stories">
+       <img src="Speeding up workflow & productivity tips.png" alt="Flawless iOS cover"/>
+   </a>
+</p>
 
 ## Storyboards
 * [Will Storyboards still be alive?](https://medium.com/flawless-app-stories/storyboard-or-no-storyboard-d3ce6eda91eb) by Nabil Kazi
@@ -291,6 +312,12 @@
 * [SwiftUI Accessibility: Sort Priority](https://medium.com/flawless-app-stories/swiftui-accessibility-sort-priority-3c878306ef19) by Rob Whitaker
 * [SwiftUI Accessibility: Named Controls](https://medium.com/flawless-app-stories/swiftui-accessibility-named-controls-298766c454bc) by Rob Whitaker
 * [SwiftUI Accessibility: Images](https://medium.com/flawless-app-stories/swiftui-image-accessibility-f3ca19aefdb1) by Rob Whitaker
+
+<p align="center">
+    <a href="https://medium.com/flawless-app-stories">
+       <img src="SwiftUI.png" alt="Flawless iOS cover"/>
+   </a>
+</p>
 
 ## Testing
 * [Automated UI Testing in Swift & iOS](https://medium.com/flawless-app-stories/automated-ui-testing-in-swift-ios-46e1c9993316) by Joe Williams
@@ -320,6 +347,12 @@
 * [All you need to know about UICollectionViewCompositionalLayout](https://medium.com/flawless-app-stories/all-what-you-need-to-know-about-uicollectionviewcompositionallayout-f3b2f590bdbe) by Aleksej Gurin
 * [How to build complex layout using UICollectionViewCompositionalLayout and UICollectionViewDiffableDataSource](https://medium.com/flawless-app-stories/how-to-build-complex-layout-using-uicollectionviewcompositionallayout-and-9448b11dcbee) by Aleksej Gurin
 
+<p align="center">
+    <a href="https://medium.com/flawless-app-stories">
+       <img src="UIKit.png" alt="Flawless iOS cover"/>
+   </a>
+</p>
+
 ## URLs
 * [URL Routing in iOS apps: Compass Beginner Guide](https://medium.com/flawless-app-stories/url-routing-with-compass-d59c0061e7e2) by Khoa Pham
 * [Open URLs using the iOS UIResponder chain in Swift](https://medium.com/flawless-app-stories/open-urls-using-the-ios-uiresponder-chain-in-swift-8ca8bc072686) by Joseph El Mallah
@@ -347,4 +380,7 @@
 
 ## 3D Touch
 * [Getting started with 3D Touch Peek & Pop— Swift](https://medium.com/flawless-app-stories/getting-started-with-3d-touch-peek-pop-swift-d498da57ae19) by Ashok Kumar
+
+## Addendum (Reference & Inspiration)
+Flawless iOS blog is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And thanks to our good friend [onmyway133](https://github.com/onmyway133) for all his help. If you are our writer and want to add your article, feel free to create pull requests!
 

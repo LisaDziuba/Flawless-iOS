@@ -44,6 +44,7 @@
 * [Automate your iOS apps using Bitrise](https://medium.com/flawless-app-stories/automate-your-ios-apps-using-bitrise-6ded1712842b) by Gokhan Gultekin
 * [Continuous Integration for Flutter with Codemagic](https://medium.com/flawless-app-stories/continuous-integration-for-flutter-with-codemagic-239aa206a70) by Codemagic
 * [iOS Continuous Integration with GitLab CI, Fastlane & OTA Installation](https://medium.com/flawless-app-stories/ios-continuous-integration-with-gitlab-ci-fastlane-and-ota-installation-from-gitlab-pages-f312e07ab06e) by Leszek Szary
+* [Secret variables in Xcode AND your CI for fun and profit 💌](https://medium.com/flawless-app-stories/secret-variables-in-xcode-and-your-ci-for-fun-and-profit-d387a50475d7) by Robin Malhotra
 
 ## Debugging
 * [Advanced debugging with Xcode](https://medium.com/flawless-app-stories/advanced-debugging-with-xcode-5e6c8dabd311) by Vincent Pradeilles
@@ -89,6 +90,10 @@
 ## iOS 11
 * [Sneak peek into iOS 11 Drag & Drop API using Swift](https://medium.com/flawless-app-stories/sneak-peek-into-ios-11-drag-drop-api-using-swift-14170021a671) by Yuri Chukhlib
 
+## iOS 12
+
+* [All about iOS 12 Autofill Passwords Tool API’s](https://medium.com/flawless-app-stories/all-about-ios-12-autofill-passwords-tool-apis-8f095127fd99) by Ali Akhtar
+
 ## iOS 13
 * [How To Prepare Your App For iOS 13](https://medium.com/flawless-app-stories/how-to-prepare-your-app-for-ios-13-7ea95c3e5433) by Attia Mo
 * [A “Swifty” way to pick Documents](https://medium.com/flawless-app-stories/a-swifty-way-to-pick-documents-59cad1988a8a) by Abraham Mangona
@@ -113,6 +118,7 @@
 * [Machine Learning in iOS: IBM Watson and CoreML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1) by Khoa Pham
 * [Machine Learning in iOS: Azure Custom Vision and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-azure-custom-vision-and-coreml-645e93f35eee) by Khoa Pham
 * [Machine Learning in iOS: Turi Create and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26) by Khoa Pham
+* [Vision in iOS: Text detection and Tesseract recognition](https://medium.com/flawless-app-stories/vision-in-ios-text-detection-and-tesseract-recognition-26bbcd735d8f) by Khoa Pham
 
 ## Making Xcode Work Better for You
 * [Become more productive and efficient in Xcode](https://medium.com/flawless-app-stories/become-more-productive-and-efficient-in-xcode-e2b5bc29f1ab) by Farhan Syed
@@ -207,6 +213,7 @@
 * [Animations in iOS: Tab Bar concepts](https://medium.com/flawless-app-stories/animations-in-ios-tab-bar-concepts-e1fd73ddac67) by Lisa Dziuba
 * [UI vs Print: Contradictions in typographical practice](https://medium.com/flawless-app-stories/ui-vs-print-contradictions-in-typographical-practice-1396b857bcf7) by Alexander Artsvuni
 * [Designers guide to user data and CRUD](https://medium.com/flawless-app-stories/designers-guide-to-user-data-and-crud-4e53f7c5150d) by Tanya Anokhina
+* [How I Created Apple’s Shortcuts Icon System](https://medium.com/flawless-app-stories/apples-shortcuts-826eabd44886) by Hassan El Desouky
 
 ## Writing Better Code
 * [Beautiful Code Principles](https://medium.com/flawless-app-stories/beautiful-code-principles-39420873eff8) by Pavle Pesic
@@ -220,35 +227,61 @@
 ## 3D Touch
 * [Getting started with 3D Touch Peek & Pop— Swift](https://medium.com/flawless-app-stories/getting-started-with-3d-touch-peek-pop-swift-d498da57ae19) by Ashok Kumar
 
-## Uncategorised
+## CocoaPods
+
 * [Create your own CocoaPods library](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270) by Yong Su
-* [Secret variables in Xcode AND your CI for fun and profit 💌](https://medium.com/flawless-app-stories/secret-variables-in-xcode-and-your-ci-for-fun-and-profit-d387a50475d7) by Robin Malhotra
+
+## Data Structure
+
+* [Doubly Linked Lists — Swift 4](https://medium.com/flawless-app-stories/doubly-linked-lists-swift-4-ae3cf8a5b975) by Sarin Swift
+
+## Playgrround
+
+* [Playground driven development in Swift](https://medium.com/flawless-app-stories/playground-driven-development-in-swift-cf167489fe7b) by Khoa Pham
+
+## Tutorial
+
+* [Getting Started with Moya](https://medium.com/flawless-app-stories/getting-started-with-moya-f559c406e990) by Malcolm Kumwenda
+* [Change splash screen in iOS app for dummies (the better way)](https://medium.com/flawless-app-stories/change-splash-screen-in-ios-app-for-dummies-the-better-way-e385327219e) by Jan Václavík
+* [Clean AppDelegate](https://medium.com/flawless-app-stories/clean-appdelegate-1903e27f72c1) by Anders Borch
 * [Managing different environments in your Swift project with ease](https://medium.com/flawless-app-stories/manage-different-environments-in-your-swift-project-with-ease-659f7f3fb1a6) by Yuri Chukhlib
+
+## Image
+
+* [Image Cropping in Swift](https://medium.com/flawless-app-stories/image-cropping-swift-26dfb09d3eae) by Ashok Kumar
+
+## UIKit
+
+* [Speed Up your iOS Development: Demystifying complex UIViews using Decorators](https://medium.com/flawless-app-stories/speed-up-your-ios-development-demystifying-complex-uiviews-using-decorators-866d36279166) by Francisco Javier Trujillo Mata
+* [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86) by Khoa Pham
+* [Infinite UIScrollView](https://medium.com/flawless-app-stories/infinite-uiscrollview-b516a5d14caf) by aybek can kaya
+* [Container View Controllers Redux](https://medium.com/flawless-app-stories/container-view-controllers-revisited-e076ef38853f) by Dennis Walsh
+* [Exploring View Hierarchy](https://medium.com/flawless-app-stories/exploring-view-hierarchy-332ea63262e9) by Dmytro Anokhin
+* [How to use UICollectionViewDiffableDataSource](https://medium.com/flawless-app-stories/how-to-use-uicollectionviewdiffabledatasource-55c60e9d3897) by Aleksej Gurin
+* [How to create reusable UIViews in Swift](https://medium.com/flawless-app-stories/reusable-uiviews-in-swift-3f9dca63eaf4) by Pablo Blanco
+* [All you need to know about UICollectionViewCompositionalLayout](https://medium.com/flawless-app-stories/all-what-you-need-to-know-about-uicollectionviewcompositionallayout-f3b2f590bdbe) by Aleksej Gurin
+
+## Curation
+
 * [Awesome Ladies iOS Engineers to Follow on Twitter](https://medium.com/flawless-app-stories/awesome-ladies-ios-engineers-to-follow-on-twitter-4fd9dff8b242) by Lisa Dziuba
 * [15 great iOS newsletters you should know about](https://medium.com/flawless-app-stories/15-great-ios-newsletters-you-should-know-about-e32978dd20e1) by Lisa Dziuba
-* [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86) by Khoa Pham
-* [Getting Started with Moya](https://medium.com/flawless-app-stories/getting-started-with-moya-f559c406e990) by Malcolm Kumwenda
-* [Playground driven development in Swift](https://medium.com/flawless-app-stories/playground-driven-development-in-swift-cf167489fe7b) by Khoa Pham
 * [33 awesome GitHub lists for iOS development](https://medium.com/flawless-app-stories/33-awesome-github-lists-for-ios-development-336691520d0f) by Lisa Dziuba
-* [Vision in iOS: Text detection and Tesseract recognition](https://medium.com/flawless-app-stories/vision-in-ios-text-detection-and-tesseract-recognition-26bbcd735d8f) by Khoa Pham
-* [Stubbing in pair with Swift compiler: a spy registration](https://medium.com/flawless-app-stories/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1) by Bartosz Polaczyk
+
+## Swift
+
 * [Disjoint-set union in C++ and Swift](https://medium.com/flawless-app-stories/disjoint-set-union-data-structure-in-c-and-swift-a52703b01fcb) by Hassan El Desouky
-* [Container View Controllers Redux](https://medium.com/flawless-app-stories/container-view-controllers-revisited-e076ef38853f) by Dennis Walsh
-* [Speed Up your iOS Development: Demystifying complex UIViews using Decorators](https://medium.com/flawless-app-stories/speed-up-your-ios-development-demystifying-complex-uiviews-using-decorators-866d36279166) by Francisco Javier Trujillo Mata
-* [Doubly Linked Lists — Swift 4](https://medium.com/flawless-app-stories/doubly-linked-lists-swift-4-ae3cf8a5b975) by Sarin Swift
-* [Infinite UIScrollView](https://medium.com/flawless-app-stories/infinite-uiscrollview-b516a5d14caf) by aybek can kaya
-* [Image Cropping in Swift](https://medium.com/flawless-app-stories/image-cropping-swift-26dfb09d3eae) by Ashok Kumar
-* [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f) by Vincent Pradeilles
-* [How I Created Apple’s Shortcuts Icon System](https://medium.com/flawless-app-stories/apples-shortcuts-826eabd44886) by Hassan El Desouky
-* [All you need to know about UICollectionViewCompositionalLayout](https://medium.com/flawless-app-stories/all-what-you-need-to-know-about-uicollectionviewcompositionallayout-f3b2f590bdbe) by Aleksej Gurin
-* [Clean AppDelegate](https://medium.com/flawless-app-stories/clean-appdelegate-1903e27f72c1) by Anders Borch
-* [Change splash screen in iOS app for dummies (the better way)](https://medium.com/flawless-app-stories/change-splash-screen-in-ios-app-for-dummies-the-better-way-e385327219e) by Jan Václavík
-* [How to create reusable UIViews in Swift](https://medium.com/flawless-app-stories/reusable-uiviews-in-swift-3f9dca63eaf4) by Pablo Blanco
 * [Access Control Basics in iOS Swift — Part 1](https://medium.com/flawless-app-stories/access-control-basics-in-ios-swift-part-1-7438c0ebe3b0) by Richard Lu
 * [Access Control Basics in iOS Swift — Part 2](https://medium.com/flawless-app-stories/access-control-basics-in-ios-swift-part-2-b293bdfd6ac1) by Richard Lu
-* [All about iOS 12 Autofill Passwords Tool API’s](https://medium.com/flawless-app-stories/all-about-ios-12-autofill-passwords-tool-apis-8f095127fd99) by Ali Akhtar
-* [How to use UICollectionViewDiffableDataSource](https://medium.com/flawless-app-stories/how-to-use-uicollectionviewdiffabledatasource-55c60e9d3897) by Aleksej Gurin
-* [Multi-window development in iPadOS](https://medium.com/flawless-app-stories/multi-window-development-in-ipados-cd6e5de0bc2c) by Chris Mash
-* [Exploring View Hierarchy](https://medium.com/flawless-app-stories/exploring-view-hierarchy-332ea63262e9) by Dmytro Anokhin
-* [Using native Apple’s Places](https://medium.com/flawless-app-stories/using-native-apples-places-f5a4a462a8e5) by Andrew Konovalskyi
+* [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f) by Vincent Pradeilles
+* [Stubbing in pair with Swift compiler: a spy registration](https://medium.com/flawless-app-stories/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1) by Bartosz Polaczyk
+
+## iPadOS
+
+* [Multi-window development in iPadOS](https://medium.com/flawless-app-stories/multi-window-development-in-ipados-cd6e5de0bc2c) by Chris Mash* [Using native Apple’s Places](https://medium.com/flawless-app-stories/using-native-apples-places-f5a4a462a8e5) by Andrew Konovalskyi
+
+## Deep Dive
+
 * [IPC — Mach Message](https://medium.com/flawless-app-stories/ipc-mach-message-cab64ff1b569) by Ali Pourhadi
+
+## Uncategorised
+

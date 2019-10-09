@@ -4,9 +4,9 @@
    </a>
 </p>
 
-Hey to all the mobile community! Since 2016 we have been curating [Flawless iOS](https://medium.com/flawless-app-stories), a community-driven blog about iOS development. So far it's the biggest iOS blog on Medium with both beginner and advanced iOS guides, written by fellow developers. It's updated daily!
+Hey to all the mobile community! Since 2016 we have been curating [Flawless iOS](https://medium.com/flawless-app-stories), a community-driven blog about iOS development. So far it's the biggest iOS blog on Medium with both beginner and advanced iOS guides, written by fellow developers. Updated almost every day.
 
-We are proud to have more than 80 writers and 200+ free iOS guides there. All of the Flawless iOS guides, you can find in this repo. And if you wish to read great iOS content, [follow our publication on Medium](https://medium.com/flawless-app-stories).
+We're proud to have more than 80 writers and 200+ free iOS guides published within Flawless iOS Medium blog. In this repo you can find all of them, nicely categorized. Learn from these comprehensive guides, share your articles with us and **[follow Flawless iOS publication on Medium](https://medium.com/flawless-app-stories)**.
 
 ## Table of Content
 * [Architecture](#architecture)
@@ -154,6 +154,7 @@ We are proud to have more than 80 writers and 200+ free iOS guides there. All of
 
 ## Flutter
 * [Flutter vs React Native: A Developer’s Perspective](https://medium.com/flawless-app-stories/flutter-vs-react-native-a-developers-perspective-8914ca240a89) by Codemagic
+* [Flutter: TDD with Unit Tests](https://medium.com/flawless-app-stories/flutter-tdd-with-unit-tests-5aa73ec3bce5) by Lawrence Tan
 
 ## Frameworks
 * [Getting Started with Reusable Frameworks for iOS Development](https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11) by Alec O'Connor
@@ -381,10 +382,11 @@ We are proud to have more than 80 writers and 200+ free iOS guides there. All of
 * [Beautiful Code Principles](https://medium.com/flawless-app-stories/beautiful-code-principles-39420873eff8) by Pavle Pesic
 * [Four Rules of Simpler iOS Software Design ](https://medium.com/flawless-app-stories/four-rules-of-simpler-ios-software-design-c371818d08e0) by Arlind Aliu
 * [From hobbyist to professional iOS Developer: Single Responsibility Principle](https://medium.com/flawless-app-stories/from-hobbyist-to-professional-ios-developer-solid-part-1-5a256e1d3b43) by Adrian Zyga
+* [From hobbyist to professional iOS Developer: Open/Closed Principle](https://medium.com/flawless-app-stories/from-hobbyist-to-professional-ios-developer-open-close-principle-5f28d2f09f8c) by Adrian Zyga
 
 ## 3D Touch
 * [Getting started with 3D Touch Peek & Pop— Swift](https://medium.com/flawless-app-stories/getting-started-with-3d-touch-peek-pop-swift-d498da57ae19) by Ashok Kumar
 
 ## Addendum (Reference & Inspiration)
-Flawless iOS blog is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And thanks to our good friend [onmyway133](https://github.com/onmyway133) for all his help. If you are our writer and want to add your article, feel free to create pull requests!
+Flawless iOS blog is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless App team. Huge thanks to our good friend [onmyway133](https://github.com/onmyway133) for all his help in making this repo. If you are Flawless iOS writer and want to add your article, feel free to create pull requests! And if you wish to become a writer, just share your Medium article\draft via a [form](https://flawlessapp.typeform.com/to/SLCB6n).
 

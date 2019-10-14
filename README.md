@@ -302,6 +302,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Access Control Basics in iOS Swift — Part 2](https://medium.com/flawless-app-stories/access-control-basics-in-ios-swift-part-2-b293bdfd6ac1) by Richard Lu
 * [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f) by Vincent Pradeilles
 * [Stubbing in pair with Swift compiler: a spy registration](https://medium.com/flawless-app-stories/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1) by Bartosz Polaczyk
+* [Dictionaries in Swift](https://medium.com/flawless-app-stories/dictionaries-in-swift-90c4df6dd828) by Adriatik Gashi
 
 ## SwiftUI
 * [My takeaway from working with SwiftUI](https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555) by T. Khan Abbas
@@ -317,6 +318,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [SwiftUI Accessibility: Sort Priority](https://medium.com/flawless-app-stories/swiftui-accessibility-sort-priority-3c878306ef19) by Rob Whitaker
 * [SwiftUI Accessibility: Named Controls](https://medium.com/flawless-app-stories/swiftui-accessibility-named-controls-298766c454bc) by Rob Whitaker
 * [SwiftUI Accessibility: Images](https://medium.com/flawless-app-stories/swiftui-image-accessibility-f3ca19aefdb1) by Rob Whitaker
+* [SwiftUI Accessibility: Accessible User Interface](https://medium.com/flawless-app-stories/swiftui-accessibility-accessible-user-interface-ae55edc265c8) by Rob Whitaker
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">

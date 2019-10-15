@@ -134,6 +134,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Awesome Ladies iOS Engineers to Follow on Twitter](https://medium.com/flawless-app-stories/awesome-ladies-ios-engineers-to-follow-on-twitter-4fd9dff8b242) by Lisa Dziuba
 * [15 great iOS newsletters you should know about](https://medium.com/flawless-app-stories/15-great-ios-newsletters-you-should-know-about-e32978dd20e1) by Lisa Dziuba
 * [33 awesome GitHub lists for iOS development](https://medium.com/flawless-app-stories/33-awesome-github-lists-for-ios-development-336691520d0f) by Lisa Dziuba
+* [Best resources for Advanced iOS Developer (Swift)](https://medium.com/flawless-app-stories/best-resources-for-advanced-ios-developer-swift-ade30374593d) by Pavlo Shadov
 
 ## Data Structure
 * [Doubly Linked Lists — Swift 4](https://medium.com/flawless-app-stories/doubly-linked-lists-swift-4-ae3cf8a5b975) by Sarin Swift
@@ -234,6 +235,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [One-Stop Xcode Coziness](https://medium.com/flawless-app-stories/one-stop-xcode-coziness-ee8dc9c1eb8b) by Wendy Liga
 * [Optimize Swift build and compile times in Xcode](https://medium.com/flawless-app-stories/optimize-swift-build-and-compile-times-in-xcode-8a212e2e7d86) by Batikan
 * [Improve your Xcode (Swift) Compile Time](https://medium.com/flawless-app-stories/improve-your-xcode-swift-compile-time-d9c1d3786473) by Alexandros Smponias
+* [Essential Xcode Shortcuts for More Efficient Coding](https://medium.com/flawless-app-stories/essential-xcode-shortcuts-for-more-efficient-coding-1f8e58b2c907) by Peter Friese
 
 ## Memory Management
 * [Memory Leaks in Swift](https://medium.com/flawless-app-stories/memory-leaks-in-swift-bfd5f95f3a74) by Leandro Pérez

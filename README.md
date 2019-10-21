@@ -78,6 +78,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Advanced iOS tutorial on MVVM](https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9) by S.T.Huang
 * [Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18) by S.T.Huang
 * [Practical MVVM + RxSwift](https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693) by Mohammad Zakizadeh
+* [Fighting state redundancy in MVVM](https://medium.com/flawless-app-stories/mvvm-state-redundancy-c9e079ff02f3) by Alexey Naumov
 
 ### Modular Architecture
 * [Modular Architecture in iOS](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) by Leandro Pérez
@@ -117,6 +118,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Multithreaded Programming in iOS](https://medium.com/flawless-app-stories/multithreaded-programming-in-ios-9de206afa620) by Medi Assumani
 
 ## Continuous Integration & Continuous Delivery
+* [How to set up your iOS project with Continuous Integration and Delivery](https://medium.com/flawless-app-stories/how-to-setup-your-ios-project-with-ci-cd-1abc48b6755f) by Lawrence Tan
 * [How to set up GitLab Continuous Integration for iOS projects without a hassle](https://medium.com/flawless-app-stories/how-to-set-up-gitlab-continuous-integration-for-ios-projects-without-a-hustle-53c2b642c90f) by Victor Peschenkov
 * [Build it, Test it, Deliver it! Complete iOS Guide on Continuous Delivery with fastlane and Jenkins](https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5) by S.T.Huang
 * [Automate your iOS apps using Bitrise](https://medium.com/flawless-app-stories/automate-your-ios-apps-using-bitrise-6ded1712842b) by Gokhan Gultekin
@@ -168,6 +170,8 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [A Christmas Challenge — A Cinema app in just 7 days](https://medium.com/flawless-app-stories/a-christmas-challenge-a-cinema-app-in-just-7-days-1c9aa998e765) by James Sherlock
 * [How I created Apple’s Voice Memos clone](https://medium.com/flawless-app-stories/how-i-created-apples-voice-memos-clone-b6cd6d65f580) by Hassan El Desouky
 * [Creating Game of Life on iOS](https://medium.com/flawless-app-stories/creating-game-of-life-on-ios-73bd51b63430) by Arlind Aliu
+* [How you can build a private photo-sharing app in 30 minutes with Creo](https://medium.com/flawless-app-stories/how-you-can-build-a-private-photo-sharing-app-in-30-minutes-with-creo-7517e79df943) by Massimo Sgrelli
+* [Implementing Foldable, Map and FlatMap](https://medium.com/flawless-app-stories/foldable-map-and-flatmap-416dbd5ace36) by Tyrone Michael Avnit
 
 ## Image
 * [Image Cropping in Swift](https://medium.com/flawless-app-stories/image-cropping-swift-26dfb09d3eae) by Ashok Kumar
@@ -225,6 +229,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [DRY String Localization with Interface Builder](https://medium.com/flawless-app-stories/dry-string-localization-with-interface-builder-665496eb0270) by Victor Pavlychko
 
 ## Machine Learning in iOS
+* [iOS Vision And Highlighting Text With Core ML](https://medium.com/flawless-app-stories/ios-vision-and-highlighting-text-with-core-ml-aaca104e9427) by Anupam Chugh
 * [Machine Learning in iOS: IBM Watson and CoreML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1) by Khoa Pham
 * [Machine Learning in iOS: Azure Custom Vision and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-azure-custom-vision-and-coreml-645e93f35eee) by Khoa Pham
 * [Machine Learning in iOS: Turi Create and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26) by Khoa Pham
@@ -246,9 +251,11 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Creating a UITabBarController Framework](https://medium.com/flawless-app-stories/creating-a-uitabbarcontroller-framework-8bd7b1289244) by Malcolm Kumwenda
 
 ## Patterns
+* [Returning Error vs Throwing Error in Swift](https://medium.com/flawless-app-stories/returning-error-vs-throwing-error-in-swift-8d3657e1330d) by Lau Kwok Ping
 * [Strategy pattern in Swift](https://medium.com/flawless-app-stories/strategy-pattern-in-swift-1462dbddd9fe) by Juanpe Catalán
 * [Flow coordinator pattern on steroids](https://medium.com/flawless-app-stories/flow-coordinator-pattern-on-steroids-a52021e31bfe) by Pavle Pesic
 * [An elegant pattern to craft cache-efficient functions in Swift](https://medium.com/flawless-app-stories/an-elegant-pattern-to-craft-cache-efficient-functions-in-swift-c1a18f73e28c) by Vincent Pradeilles
+* [Design patterns by Tutorials— The power of OOP (part 1)](https://medium.com/flawless-app-stories/design-patterns-by-tutorials-the-power-of-oop-2e871b551cbe) by Hitendra Solanki
 * [Design patterns by Tutorials — The power of OOP (part 3)](https://medium.com/flawless-app-stories/adapter-pattern-design-patterns-by-tutorials-the-power-of-oop-part-3-112a956c1101) by Hitendra Solanki
 
 ## Playgrround
@@ -262,6 +269,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [iOS remote push notifications in a nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252) by Deyan Aleksandrov
 * [Strong-typed Notifications in Swift](https://medium.com/flawless-app-stories/strong-typed-notifications-in-swift-a5de8f7f58e0) by Leandro Pérez
 * [iOS Dynamic Push Notifications with AWS Pinpoint](https://medium.com/flawless-app-stories/ios-push-notifications-with-aws-4bde95dfe7f4) by Marvin Mouroum
+* [Local Notifications in Swift 5 and iOS 13 with UNUSerNotificationCenter](https://medium.com/flawless-app-stories/local-notifications-in-swift-5-and-ios-13-with-unusernotificationcenter-190e654a5615) by Lachlan Miller
 
 ## RxSwift
 * [Simplifying RxSwift code](https://medium.com/flawless-app-stories/simplifying-rxswift-code-78071d5b780) by MortyMerr
@@ -296,6 +304,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 ## Storyboards
 * [Will Storyboards still be alive?](https://medium.com/flawless-app-stories/storyboard-or-no-storyboard-d3ce6eda91eb) by Nabil Kazi
+* [Reducing iOS storyboard merge hell](https://medium.com/flawless-app-stories/ios-storyboard-merge-hell-b4cbb2e57dfc) by Chris Mash
 
 ## Swift
 * [UndoManager in Swift 5 with example](https://medium.com/flawless-app-stories/undomanager-in-swift-5-with-simple-example-8c791e231b87) by Hitendra Solanki
@@ -305,6 +314,9 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f) by Vincent Pradeilles
 * [Stubbing in pair with Swift compiler: a spy registration](https://medium.com/flawless-app-stories/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1) by Bartosz Polaczyk
 * [Dictionaries in Swift](https://medium.com/flawless-app-stories/dictionaries-in-swift-90c4df6dd828) by Adriatik Gashi
+* [Swift & Objective-C Mixed Languages App](https://medium.com/flawless-app-stories/swift-objective-c-mixed-languages-app-16b6c9c3e9b0) by Anand Nimje
+* [A practical guide to Weak Referencing in Swift](https://medium.com/flawless-app-stories/a-practical-guide-to-weak-referencing-in-swift-60a1e4da2ef9) by Serge Mata M
+* [Fireworks — A visual particles editor for Swift](https://medium.com/flawless-app-stories/fireworks-a-visual-particles-editor-for-swift-618e76347798) by Besher Al Maleh
 
 ## SwiftUI
 * [My takeaway from working with SwiftUI](https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555) by T. Khan Abbas
@@ -321,6 +333,10 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [SwiftUI Accessibility: Named Controls](https://medium.com/flawless-app-stories/swiftui-accessibility-named-controls-298766c454bc) by Rob Whitaker
 * [SwiftUI Accessibility: Images](https://medium.com/flawless-app-stories/swiftui-image-accessibility-f3ca19aefdb1) by Rob Whitaker
 * [SwiftUI Accessibility: Accessible User Interface](https://medium.com/flawless-app-stories/swiftui-accessibility-accessible-user-interface-ae55edc265c8) by Rob Whitaker
+* [SwiftUI Accessibility: Attributes](https://medium.com/flawless-app-stories/swiftui-accessibility-attributes-4aa120b3cc76) by Rob Whitaker
+* [How To Build A Firebase App With SwiftUI](https://medium.com/flawless-app-stories/how-to-build-a-firebase-app-with-swiftui-5919d2d8a396) by Sebastian Esser
+* [Build a Compass app with SwiftUI](https://medium.com/flawless-app-stories/build-a-compass-app-with-swiftui-f9b7faa78098) by Darren
+* [What’s the Delegation Protocol in SwiftUI?](https://medium.com/flawless-app-stories/whats-the-protocol-in-swiftui-94c871f082e5) by Danny Bolella
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">

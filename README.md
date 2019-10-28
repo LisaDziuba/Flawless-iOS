@@ -8,6 +8,12 @@ Hey to all the mobile community! Since 2016 we have been curating [Flawless iOS]
 
 We're proud to have more than 80 writers and 200+ free iOS guides published within Flawless iOS Medium blog. In this repo you can find all of them, nicely categorized. Learn from these comprehensive guides, share your articles with us and **[follow Flawless iOS publication on Medium](https://medium.com/flawless-app-stories)**.
 
+<p align="center">
+   <a href="http://bit.ly/2BQsoxS">
+       <img src="https://github.com/LisaDziuba/Flawless-iOS/blob/master/media/Flawless%20App.png" alt="Flawless App"/>
+   </a>
+</p>
+
 ## Table of Content
 * [Architecture](#architecture)
   * [MVC](#mvc)
@@ -406,6 +412,12 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 ## 3D Touch
 * [Getting started with 3D Touch Peek & Pop— Swift](https://medium.com/flawless-app-stories/getting-started-with-3d-touch-peek-pop-swift-d498da57ae19) by Ashok Kumar
+
+<p align="center">
+   <a href="http://bit.ly/2BQsoxS">
+       <img src="https://github.com/LisaDziuba/Flawless-iOS/blob/master/media/Flawless%20App.png" alt="Flawless App"/>
+   </a>
+</p>
 
 ## Addendum (Reference & Inspiration)
 Flawless iOS blog is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless App team. Huge thanks to our good friend [onmyway133](https://github.com/onmyway133) for all his help in making this repo. If you are Flawless iOS writer and want to add your article, feel free to create pull requests! And if you wish to become a writer, just share your Medium article\draft via a [form](https://flawlessapp.typeform.com/to/SLCB6n).

@@ -128,7 +128,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
-       <img src="Continuous Integration & Continuous Delivery (1).png" alt="Flawless iOS cover"/>
+       <img src="media/Continuous Integration & Continuous Delivery (1).png" alt="Flawless iOS cover"/>
    </a>
 </p>
 
@@ -185,7 +185,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
-       <img src="Implementing Animations in iOS.png" alt="Flawless iOS cover"/>
+       <img src="media/Implementing Animations in iOS.png" alt="Flawless iOS cover"/>
    </a>
 </p>
 
@@ -211,7 +211,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
-       <img src="iOS (1).png" alt="Flawless iOS cover"/>
+       <img src="media/iOS (1).png" alt="Flawless iOS cover"/>
    </a>
 </p>
 
@@ -298,7 +298,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
-       <img src="Speeding up workflow & productivity tips.png" alt="Flawless iOS cover"/>
+       <img src="media/Speeding up workflow & productivity tips.png" alt="Flawless iOS cover"/>
    </a>
 </p>
 
@@ -340,7 +340,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
-       <img src="SwiftUI.png" alt="Flawless iOS cover"/>
+       <img src="media/SwiftUI.png" alt="Flawless iOS cover"/>
    </a>
 </p>
 
@@ -374,7 +374,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
-       <img src="UIKit.png" alt="Flawless iOS cover"/>
+       <img src="media/UIKit.png" alt="Flawless iOS cover"/>
    </a>
 </p>
 

@@ -340,6 +340,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [SwiftUI Accessibility: Images](https://medium.com/flawless-app-stories/swiftui-image-accessibility-f3ca19aefdb1) by Rob Whitaker
 * [SwiftUI Accessibility: Accessible User Interface](https://medium.com/flawless-app-stories/swiftui-accessibility-accessible-user-interface-ae55edc265c8) by Rob Whitaker
 * [SwiftUI Accessibility: Attributes](https://medium.com/flawless-app-stories/swiftui-accessibility-attributes-4aa120b3cc76) by Rob Whitaker
+* [SwiftUI Accessibility: Traits] by Rob Whitaker
 * [How To Build A Firebase App With SwiftUI](https://medium.com/flawless-app-stories/how-to-build-a-firebase-app-with-swiftui-5919d2d8a396) by Sebastian Esser
 * [Build a Compass app with SwiftUI](https://medium.com/flawless-app-stories/build-a-compass-app-with-swiftui-f9b7faa78098) by Darren
 * [What’s the Delegation Protocol in SwiftUI?](https://medium.com/flawless-app-stories/whats-the-protocol-in-swiftui-94c871f082e5) by Danny Bolella

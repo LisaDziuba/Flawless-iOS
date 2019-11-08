@@ -109,6 +109,8 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Simplifying communication patterns with closure in Swift](https://medium.com/flawless-app-stories/simplifying-communication-patterns-with-closure-in-swift-1938414468b3) by Khoa Pham
 * [You don’t (always) need [weak self]](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef) by Besher Al Maleh
 * [Closure in Swift: The Painful one!](https://medium.com/flawless-app-stories/closure-in-swift-the-painful-one-7daff52a6e3f) by Shubham Bakshi
+* [Unowned vs Weak](https://medium.com/flawless-app-stories/unowned-vs-weak-614ac71ac516) by Fahad C H
+
 
 ## CocoaPods
 * [Create your own CocoaPods library](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270) by Yong Su
@@ -148,6 +150,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 ## Data Structure
 * [Doubly Linked Lists — Swift 4](https://medium.com/flawless-app-stories/doubly-linked-lists-swift-4-ae3cf8a5b975) by Sarin Swift
+* [Error trees in iOS](https://medium.com/flawless-app-stories/error-trees-d88df217bcc4) by Isaac Carol Weisberg
 
 ## Debugging
 * [Advanced debugging with Xcode](https://medium.com/flawless-app-stories/advanced-debugging-with-xcode-5e6c8dabd311) by Vincent Pradeilles
@@ -201,6 +204,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Facebook Account Kit using Swift](https://medium.com/flawless-app-stories/facebook-account-kit-using-swift-1dfee31ce9dd) by Anas Zaheer
 * [Unity Integration in Native iOS & APIs](https://medium.com/flawless-app-stories/unity-integration-in-native-ios-b5e2ea501477) by Azeem Azeez
 * [Scratching the Firebase services with your iOS app](https://medium.com/flawless-app-stories/scratching-the-firebase-services-with-your-ios-app-c2746881c6d8) by Deyan Aleksandrov
+* [Managing your App Distribution with Firebase](https://medium.com/flawless-app-stories/managing-your-app-distribution-using-firebase-b0e0178eedb) by Nabil Kazi
 
 ## iOS
 ### iOS 11
@@ -216,6 +220,9 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [iOS 13 UISegmentedControl: 3 important changes](https://medium.com/flawless-app-stories/ios-13-uisegmentedcontrol-3-important-changes-d3a94fdd6763) by Rostyslav Dovhaliuk
 * [How to Request Device Motion and Orientation Permission in iOS 13](https://medium.com/flawless-app-stories/how-to-request-device-motion-and-orientation-permission-in-ios-13-74fc9d6cd140) by Lee Martin
 * [How to use a full-text search on iOS?](https://medium.com/flawless-app-stories/how-to-use-full-text-search-on-ios-7cc4553df0e0) by Pavle Pesic
+* [Handling iOS 13 Bluetooth Permissions](https://medium.com/flawless-app-stories/handling-ios-13-bluetooth-permissions-26c6a8cbb816) by Anupam Chugh
+* [Backward compatible Dark Mode on iOS](https://medium.com/flawless-app-stories/backward-compatible-dark-mode-on-ios-1f55e31e4c0e) by Maksym Shcheglov
+* [Enable Accessibility VoiceOver for ImageView in iOS 13 on Xcode with Swift](https://medium.com/flawless-app-stories/enable-accessibility-voiceover-for-uiimageview-in-ios-13-577aa4979d00) by Mumtaz Hussain
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
@@ -298,6 +305,8 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 ## Speeding up workflow & productivity tips
 * [Squeezing Xcode for hard drive space](https://medium.com/flawless-app-stories/saving-space-as-an-ios-developer-c09f5b6af395) by Chris Mash
 * [iOS project best practices and tools](https://medium.com/flawless-app-stories/ios-project-best-practices-and-tools-c46135b8116d) by Piotr Gorzelany
+* [Make your next iOS project a huge success](https://medium.com/flawless-app-stories/make-your-next-ios-swift-project-a-huge-success-for-developers-f98c508299ff) by Alexandros Smponias
+* [Achieving maximum test readability at no cost for iOS](https://medium.com/flawless-app-stories/ios-achieving-maximum-test-readability-at-no-cost-906af0dbaa98) by Victor Magalhães
 * [Best iOS hacks from Twitter: October Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-october-edition-ce253347f88a) by Lisa Dziuba
 * [Best iOS hacks from Twitter: November Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-november-edition-bd38edba8ea4) by Lisa Dziuba
 * [Best iOS hacks from Twitter: December Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-december-edition-8134390309e2) by Lisa Dziuba
@@ -320,11 +329,15 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Access Control Basics in iOS Swift — Part 1](https://medium.com/flawless-app-stories/access-control-basics-in-ios-swift-part-1-7438c0ebe3b0) by Richard Lu
 * [Access Control Basics in iOS Swift — Part 2](https://medium.com/flawless-app-stories/access-control-basics-in-ios-swift-part-2-b293bdfd6ac1) by Richard Lu
 * [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f) by Vincent Pradeilles
-* [Stubbing in pair with Swift compiler: a spy registration](https://medium.com/flawless-app-stories/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1) by Bartosz Polaczyk
 * [Dictionaries in Swift](https://medium.com/flawless-app-stories/dictionaries-in-swift-90c4df6dd828) by Adriatik Gashi
 * [Swift & Objective-C Mixed Languages App](https://medium.com/flawless-app-stories/swift-objective-c-mixed-languages-app-16b6c9c3e9b0) by Anand Nimje
 * [A practical guide to Weak Referencing in Swift](https://medium.com/flawless-app-stories/a-practical-guide-to-weak-referencing-in-swift-60a1e4da2ef9) by Serge Mata M
 * [Fireworks — A visual particles editor for Swift](https://medium.com/flawless-app-stories/fireworks-a-visual-particles-editor-for-swift-618e76347798) by Besher Al Maleh
+* [Static vs Dynamic Dispatch in Swift: A decisive choice](https://medium.com/flawless-app-stories/static-vs-dynamic-dispatch-in-swift-a-decisive-choice-cece1e872d) by Shubham Bakshi
+* [Stubbing in pair with Swift compiler: a spy registration](https://medium.com/flawless-app-stories/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1) by Bartosz Polaczyk
+* [Swift Compiler: What we can learn](https://medium.com/flawless-app-stories/swift-compiler-what-we-can-learn-96872ea4b1b8) by Ali Pourhadi
+* [What is PassKit and how to use it?](https://medium.com/flawless-app-stories/what-is-passkit-and-how-to-use-it-24eee661a2db) by 
+Kristaps Grinbergs
 
 ## SwiftUI
 * [My takeaway from working with SwiftUI](https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555) by T. Khan Abbas
@@ -348,6 +361,8 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Build a Compass app with SwiftUI](https://medium.com/flawless-app-stories/build-a-compass-app-with-swiftui-f9b7faa78098) by Darren
 * [What’s the Delegation Protocol in SwiftUI?](https://medium.com/flawless-app-stories/whats-the-protocol-in-swiftui-94c871f082e5) by Danny Bolella
 * [Gradient in SwiftUI](https://medium.com/flawless-app-stories/gradient-in-swiftui-6c4fc408b7e8) by Ashish Kakkad
+* [MapKit in SwiftUI](https://medium.com/flawless-app-stories/mapkit-in-swiftui-c0cc2b07c28a) by Anand Nimje
+
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
@@ -371,6 +386,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Change splash screen in iOS app for dummies (the better way)](https://medium.com/flawless-app-stories/change-splash-screen-in-ios-app-for-dummies-the-better-way-e385327219e) by Jan Václavík
 * [Clean AppDelegate](https://medium.com/flawless-app-stories/clean-appdelegate-1903e27f72c1) by Anders Borch
 * [Managing different environments in your Swift project with ease](https://medium.com/flawless-app-stories/manage-different-environments-in-your-swift-project-with-ease-659f7f3fb1a6) by Yuri Chukhlib
+* [The Beginner’s Guide to Code Coverage](https://medium.com/flawless-app-stories/the-beginners-guide-code-coverage-4e3c60e11d85) by Jubin Jacob
 
 ## UIKit
 * [Speed Up your iOS Development: Demystifying complex UIViews using Decorators](https://medium.com/flawless-app-stories/speed-up-your-ios-development-demystifying-complex-uiviews-using-decorators-866d36279166) by Francisco Javier Trujillo Mata

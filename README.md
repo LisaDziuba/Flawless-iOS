@@ -272,6 +272,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [An elegant pattern to craft cache-efficient functions in Swift](https://medium.com/flawless-app-stories/an-elegant-pattern-to-craft-cache-efficient-functions-in-swift-c1a18f73e28c) by Vincent Pradeilles
 * [Design patterns by Tutorials— The power of OOP (part 1)](https://medium.com/flawless-app-stories/design-patterns-by-tutorials-the-power-of-oop-2e871b551cbe) by Hitendra Solanki
 * [Design patterns by Tutorials — The power of OOP (part 3)](https://medium.com/flawless-app-stories/adapter-pattern-design-patterns-by-tutorials-the-power-of-oop-part-3-112a956c1101) by Hitendra Solanki
+* [Builder Design Pattern in iOS](https://medium.com/flawless-app-stories/builder-design-pattern-in-ios-d528c7614eac) by Oguz Parlak
 
 ## Playgrround
 * [Playground driven development in Swift](https://medium.com/flawless-app-stories/playground-driven-development-in-swift-cf167489fe7b) by Khoa Pham

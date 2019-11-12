@@ -358,6 +358,7 @@ Kristaps Grinbergs
 * [SwiftUI Accessibility: Attributes](https://medium.com/flawless-app-stories/swiftui-accessibility-attributes-4aa120b3cc76) by Rob Whitaker
 * [SwiftUI Accessibility: Traits](https://medium.com/flawless-app-stories/swiftui-accessibility-traits-5fee4b56c272) by Rob Whitaker
 * [SwiftUI Accessibility: User Setting](https://medium.com/flawless-app-stories/swiftui-accessibility-user-settings-cb4d121d7141) by Rob Whitaker
+* [SwiftUI Accessibility: Semantic Views](https://medium.com/flawless-app-stories/swiftui-accessibility-semantic-views-1f0dea3b9602) by Rob Whitaker
 * [How To Build A Firebase App With SwiftUI](https://medium.com/flawless-app-stories/how-to-build-a-firebase-app-with-swiftui-5919d2d8a396) by Sebastian Esser
 * [Build a Compass app with SwiftUI](https://medium.com/flawless-app-stories/build-a-compass-app-with-swiftui-f9b7faa78098) by Darren
 * [What’s the Delegation Protocol in SwiftUI?](https://medium.com/flawless-app-stories/whats-the-protocol-in-swiftui-94c871f082e5) by Danny Bolella

@@ -193,6 +193,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Cool Custom ViewController Transitions — Easy](https://medium.com/flawless-app-stories/cool-view-controller-transitions-easy-8390bd8e378) by Fran Obarrio
 * [Cool Custom ViewController Transitions — Advanced](https://medium.com/flawless-app-stories/cool-custom-view-controller-transitions-advanced-df2d0ca08029) by Fran Obarrio
 * [Animated gradient layers in Swift](https://medium.com/flawless-app-stories/animated-gradient-layers-in-swift-bad094496644) by Prabhu S
+* [RxAnimated — animated bindings](https://medium.com/flawless-app-stories/rxanimated-animated-bindings-c5daa7f7d591) by Stfalcon.com
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
@@ -223,6 +224,8 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Handling iOS 13 Bluetooth Permissions](https://medium.com/flawless-app-stories/handling-ios-13-bluetooth-permissions-26c6a8cbb816) by Anupam Chugh
 * [Backward compatible Dark Mode on iOS](https://medium.com/flawless-app-stories/backward-compatible-dark-mode-on-ios-1f55e31e4c0e) by Maksym Shcheglov
 * [Enable Accessibility VoiceOver for ImageView in iOS 13 on Xcode with Swift](https://medium.com/flawless-app-stories/enable-accessibility-voiceover-for-uiimageview-in-ios-13-577aa4979d00) by Mumtaz Hussain
+* [Implementing Dark Mode on iOS](https://medium.com/flawless-app-stories/implementing-dark-mode-on-ios-d195cac098de) by Bao Nguyen
+* [Getting started with PencilKit on iOS 13](https://medium.com/flawless-app-stories/getting-started-with-pencilkit-on-ios-13-a4bda3323fd8) by Martin Mitrevski
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
@@ -337,8 +340,9 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Static vs Dynamic Dispatch in Swift: A decisive choice](https://medium.com/flawless-app-stories/static-vs-dynamic-dispatch-in-swift-a-decisive-choice-cece1e872d) by Shubham Bakshi
 * [Stubbing in pair with Swift compiler: a spy registration](https://medium.com/flawless-app-stories/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1) by Bartosz Polaczyk
 * [Swift Compiler: What we can learn](https://medium.com/flawless-app-stories/swift-compiler-what-we-can-learn-96872ea4b1b8) by Ali Pourhadi
-* [What is PassKit and how to use it?](https://medium.com/flawless-app-stories/what-is-passkit-and-how-to-use-it-24eee661a2db) by 
-Kristaps Grinbergs
+* [What is PassKit and how to use it?](https://medium.com/flawless-app-stories/what-is-passkit-and-how-to-use-it-24eee661a2db) by Kristaps Grinbergs
+* [Reusable Image Cache in Swift](https://medium.com/flawless-app-stories/reusable-image-cache-in-swift-9b90eb338e8d) by Maksym Shcheglov
+
 
 ## SwiftUI
 * [My takeaway from working with SwiftUI](https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555) by T. Khan Abbas
@@ -364,6 +368,7 @@ Kristaps Grinbergs
 * [What’s the Delegation Protocol in SwiftUI?](https://medium.com/flawless-app-stories/whats-the-protocol-in-swiftui-94c871f082e5) by Danny Bolella
 * [Gradient in SwiftUI](https://medium.com/flawless-app-stories/gradient-in-swiftui-6c4fc408b7e8) by Ashish Kakkad
 * [MapKit in SwiftUI](https://medium.com/flawless-app-stories/mapkit-in-swiftui-c0cc2b07c28a) by Anand Nimje
+* [Programmatic navigation in SwiftUI project](https://medium.com/flawless-app-stories/programmatic-navigation-in-swiftui-project-81200f35150) by Alexey Naumov
 
 
 <p align="center">

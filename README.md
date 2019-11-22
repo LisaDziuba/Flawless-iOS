@@ -31,6 +31,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Debugging](#debugging)
 * [Deep Dive](#deep-dive)
 * [Dependency Injection](#dependency-injection)
+* [Design System](#design-system)
 * [Flawless App](#flawless-app)
 * [Flutter](#flutter)
 * [Frameworks](#frameworks)
@@ -74,6 +75,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [3D Touch](#3d-touch)
 
 ## Architecture
+* [The only viable iOS architecture](https://medium.com/flawless-app-stories/the-only-viable-ios-architecture-c42f7b4c845d) by Amirzhan Idryshev
 
 ### MVC+
 * [“Massive” View Controllers or bad coding style?](https://medium.com/flawless-app-stories/massive-view-controllers-or-bad-coding-style-bf2b0d57c268) by Besar
@@ -119,6 +121,8 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by Arlind Aliu
 * [Will Combine kill RxSwift?](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by MortyMerr
 * [Visualize Combine Magic with SwiftUI Part 1](https://medium.com/flawless-app-stories/visualize-combine-magic-with-swiftui-part-1-3a56e2a461b3) by Kevin Cheng
+* [Visualize Combine Magic with SwiftUI Part 3](https://medium.com/flawless-app-stories/visualize-combine-magic-with-swiftui-part-3-a3f0cc42bcc8) by Kevin Cheng
+* [Visualize Combine Magic with SwiftUI Part 5](https://medium.com/flawless-app-stories/visualize-combine-magic-with-swiftui-part-5-2783adddbd1d) by Kevin Cheng
 
 ## Concurrency
 * [Parallel Programming with Swift: What could possibly go wrong?](https://medium.com/flawless-app-stories/parallel-programming-with-swift-what-could-possibly-go-wrong-f5bcc38b1814) by Jan Olbrich
@@ -126,6 +130,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Parallel programming with Swift: Operations](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0) by Jan Olbrich
 * [Parallel programming with Swift: Promises](https://medium.com/flawless-app-stories/parallel-programming-with-swift-promises-740be1a260ed) by Jan Olbrich
 * [Multithreaded Programming in iOS](https://medium.com/flawless-app-stories/multithreaded-programming-in-ios-9de206afa620) by Medi Assumani
+* [GPU Speedup](https://medium.com/flawless-app-stories/gpu-speedup-5cd66012b91e) by Mohammad Jeragh
 
 ## Continuous Integration & Continuous Delivery
 * [How to set up your iOS project with Continuous Integration and Delivery](https://medium.com/flawless-app-stories/how-to-setup-your-ios-project-with-ci-cd-1abc48b6755f) by Lawrence Tan
@@ -161,6 +166,9 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 ## Dependency Injection
 * [iOS Dependency Injection Using Swinject](https://medium.com/flawless-app-stories/ios-dependency-injection-using-swinject-9c4ceff99e41) by Ali Akhtar
+
+## Design System
+* [What Design Language System looks from the engineers’ side?](https://medium.com/flawless-app-stories/what-design-language-system-looks-from-the-engineers-side-54f8e2f0ec1e) by Sting.Su
 
 ## Flawless App
 * [How Flawless App will make you a better UI designer](https://medium.com/flawless-app-stories/how-flawless-app-will-make-you-a-better-ui-designer-23c7c5338e8c) by Ahmed Sulaiman
@@ -283,6 +291,8 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 ## Protocols
 * [Writing a Network Layer in Swift: Protocol-Oriented Approach](https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908) by Malcolm Kumwenda
 * [Improving code testability with Swift protocols](https://medium.com/flawless-app-stories/solving-dependencies-in-swift-9ee6ad4a8941) by Juanpe Catalán
+* [Protocol-based Themes in iOS Apps](https://medium.com/flawless-app-stories/protocol-based-themes-in-ios-apps-820971763837) by Muhammad Nayab Butt
+
 
 ## Push Notifications
 * [iOS remote push notifications in a nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252) by Deyan Aleksandrov
@@ -342,6 +352,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Swift Compiler: What we can learn](https://medium.com/flawless-app-stories/swift-compiler-what-we-can-learn-96872ea4b1b8) by Ali Pourhadi
 * [What is PassKit and how to use it?](https://medium.com/flawless-app-stories/what-is-passkit-and-how-to-use-it-24eee661a2db) by Kristaps Grinbergs
 * [Reusable Image Cache in Swift](https://medium.com/flawless-app-stories/reusable-image-cache-in-swift-9b90eb338e8d) by Maksym Shcheglov
+* [SwiftLint in Use](https://medium.com/flawless-app-stories/swiftlint-in-use-279f44b3182e) by Soheil Novinfard
 
 
 ## SwiftUI

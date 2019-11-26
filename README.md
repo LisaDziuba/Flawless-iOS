@@ -353,6 +353,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [What is PassKit and how to use it?](https://medium.com/flawless-app-stories/what-is-passkit-and-how-to-use-it-24eee661a2db) by Kristaps Grinbergs
 * [Reusable Image Cache in Swift](https://medium.com/flawless-app-stories/reusable-image-cache-in-swift-9b90eb338e8d) by Maksym Shcheglov
 * [SwiftLint in Use](https://medium.com/flawless-app-stories/swiftlint-in-use-279f44b3182e) by Soheil Novinfard
+* [Say Goodbye to “Index out of range” — Swift](https://medium.com/flawless-app-stories/say-goodbye-to-index-out-of-range-swift-eca7c4c7b6ca) by Wendy Liga
 
 
 ## SwiftUI

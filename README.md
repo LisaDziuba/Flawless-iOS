@@ -303,6 +303,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 ## RxSwift
 * [Simplifying RxSwift code](https://medium.com/flawless-app-stories/simplifying-rxswift-code-78071d5b780) by MortyMerr
 * [Reactive Heart Rate Monitors in Swift](https://medium.com/flawless-app-stories/https-medium-com-leandromperez-reactive-heart-rate-monitors-9e68a31a88b) by Leandro Pérez
+* [The state of modern Rx in iOS](https://medium.com/flawless-app-stories/rxflaws-state-of-modern-rx-in-ios-1ff2cae75fa3) by Isaac Carol Weisberg
 
 ## Siri
 * [WWDC 2018 for iOS developers: Siri Shortcuts](https://medium.com/flawless-app-stories/wwdc-2018-for-ios-developers-siri-shortcuts-e8e4a78f0ad7) by Jan Olbrich

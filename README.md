@@ -234,6 +234,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Enable Accessibility VoiceOver for ImageView in iOS 13 on Xcode with Swift](https://medium.com/flawless-app-stories/enable-accessibility-voiceover-for-uiimageview-in-ios-13-577aa4979d00) by Mumtaz Hussain
 * [Implementing Dark Mode on iOS](https://medium.com/flawless-app-stories/implementing-dark-mode-on-ios-d195cac098de) by Bao Nguyen
 * [Getting started with PencilKit on iOS 13](https://medium.com/flawless-app-stories/getting-started-with-pencilkit-on-ios-13-a4bda3323fd8) by Martin Mitrevski
+* [iOS 13: Optical Character Recognition](https://medium.com/flawless-app-stories/ios-13-optical-character-recognition-d1bb8b710db1) by Chris Mash
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">

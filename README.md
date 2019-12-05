@@ -115,7 +115,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 
 ## CocoaPods
-* [Create your own CocoaPods library](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270) by Yong S
+* [Create your own CocoaPods library](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270) by Yong Su
 
 ## Combine
 * [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by Arlind Aliu
@@ -356,6 +356,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Reusable Image Cache in Swift](https://medium.com/flawless-app-stories/reusable-image-cache-in-swift-9b90eb338e8d) by Maksym Shcheglov
 * [SwiftLint in Use](https://medium.com/flawless-app-stories/swiftlint-in-use-279f44b3182e) by Soheil Novinfard
 * [Say Goodbye to “Index out of range” — Swift](https://medium.com/flawless-app-stories/say-goodbye-to-index-out-of-range-swift-eca7c4c7b6ca) by Wendy Liga
+* [That “return” keyword in guard let statement in Swift](https://medium.com/flawless-app-stories/that-return-keyword-in-guard-let-statement-in-swift-eeacf88f6270) by Mumtaz Hussain
 
 
 ## SwiftUI

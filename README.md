@@ -443,6 +443,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [UI vs Print: Contradictions in typographical practice](https://medium.com/flawless-app-stories/ui-vs-print-contradictions-in-typographical-practice-1396b857bcf7) by Alexander Artsvuni
 * [Designers guide to user data and CRUD](https://medium.com/flawless-app-stories/designers-guide-to-user-data-and-crud-4e53f7c5150d) by Tanya Anokhina
 * [How I Created Apple’s Shortcuts Icon System](https://medium.com/flawless-app-stories/apples-shortcuts-826eabd44886) by Hassan El Desouky
+* [iOS design by prototyping and iterating](https://medium.com/flawless-app-stories/ios-design-by-prototyping-and-iterating-d35a222a63e8) by Martin Mitrevski
 
 ## White Label Solutions
 * [Managing White Label Solutions](https://medium.com/flawless-app-stories/managing-white-label-solutions-8ed8ce9d7fa8) by Nabil Kazi

@@ -268,6 +268,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Optimize Swift build and compile times in Xcode](https://medium.com/flawless-app-stories/optimize-swift-build-and-compile-times-in-xcode-8a212e2e7d86) by Batikan
 * [Improve your Xcode (Swift) Compile Time](https://medium.com/flawless-app-stories/improve-your-xcode-swift-compile-time-d9c1d3786473) by Alexandros Smponias
 * [Essential Xcode Shortcuts for More Efficient Coding](https://medium.com/flawless-app-stories/essential-xcode-shortcuts-for-more-efficient-coding-1f8e58b2c907) by Peter Friese
+* [Xcode 11 now makes “//MARK:” comments a lot more useful with Minimap feature](https://medium.com/flawless-app-stories/xcode-11-now-makes-mark-comments-a-lot-more-useful-with-minimap-feature-f8c658b293f) by Mumtaz Hussain
 
 ## Memory Management
 * [Memory Leaks in Swift](https://medium.com/flawless-app-stories/memory-leaks-in-swift-bfd5f95f3a74) by Leandro Pérez

@@ -79,7 +79,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 
 ### MVC+
 * [“Massive” View Controllers or bad coding style?](https://medium.com/flawless-app-stories/massive-view-controllers-or-bad-coding-style-bf2b0d57c268) by Besar
-* [Judging MVC](https://medium.com/@iAmrSalman/judging-mvc-1b4f1850661c) by Amr Salman
+* [Judging MVC](https://medium.com/@iAmrSalman/judging-mvc-1b4f1850661c) by Amr Salma
 
 ### MVVM
 * [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b?) by S.T.Huang

@@ -235,6 +235,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Implementing Dark Mode on iOS](https://medium.com/flawless-app-stories/implementing-dark-mode-on-ios-d195cac098de) by Bao Nguyen
 * [Getting started with PencilKit on iOS 13](https://medium.com/flawless-app-stories/getting-started-with-pencilkit-on-ios-13-a4bda3323fd8) by Martin Mitrevski
 * [iOS 13: Optical Character Recognition](https://medium.com/flawless-app-stories/ios-13-optical-character-recognition-d1bb8b710db1) by Chris Mash
+* [Upgrade the UI with iOS 13](https://medium.com/flawless-app-stories/upgrade-the-ui-with-ios-13-587328d389a5) by Takuma Kakehi
 
 <p align="center">
     <a href="https://medium.com/flawless-app-stories">
@@ -396,6 +397,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 </p>
 
 ## Testing
+* [How to test iOS apps with Combine, ReactiveSwift and RxSwift](https://medium.com/flawless-app-stories/how-to-test-ios-apps-with-combine-reactiveswift-and-rxswift-ebdf7b56aa83) by Szymon Mrozek
 * [Automated UI Testing in Swift & iOS](https://medium.com/flawless-app-stories/automated-ui-testing-in-swift-ios-46e1c9993316) by Joe Williams
 * [Guarantee Rx memory leaks absence](https://medium.com/flawless-app-stories/guarantee-rx-memory-leaks-absence-3a90636ec49e) by MortyMerr
 * [Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee) by S.T.Huang
@@ -456,6 +458,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Four Rules of Simpler iOS Software Design ](https://medium.com/flawless-app-stories/four-rules-of-simpler-ios-software-design-c371818d08e0) by Arlind Aliu
 * [From hobbyist to professional iOS Developer: Single Responsibility Principle](https://medium.com/flawless-app-stories/from-hobbyist-to-professional-ios-developer-solid-part-1-5a256e1d3b43) by Adrian Zyga
 * [From hobbyist to professional iOS Developer: Open/Closed Principle](https://medium.com/flawless-app-stories/from-hobbyist-to-professional-ios-developer-open-close-principle-5f28d2f09f8c) by Adrian Zyga
+* [Explain SOLID Principles from Company perspective](https://medium.com/flawless-app-stories/explain-solid-principles-from-company-perspective-with-few-codes-291fe396c22f) by Richard Lu
 
 ## 3D Touch
 * [Getting started with 3D Touch Peek & Pop— Swift](https://medium.com/flawless-app-stories/getting-started-with-3d-touch-peek-pop-swift-d498da57ae19) by Ashok Kumar

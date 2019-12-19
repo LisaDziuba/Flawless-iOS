@@ -388,6 +388,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [MapKit in SwiftUI](https://medium.com/flawless-app-stories/mapkit-in-swiftui-c0cc2b07c28a) by Anand Nimje
 * [Programmatic navigation in SwiftUI project](https://medium.com/flawless-app-stories/programmatic-navigation-in-swiftui-project-81200f35150) by Alexey Naumov
 * [SwiftUI Tutorial: Showing Badge on Tab Bar Item](https://medium.com/flawless-app-stories/swiftui-tutorial-showing-badge-on-tab-bar-item-d71e4075b67a) by Jihad Fayz
+* [Gestures and Animations in SwiftUI](https://medium.com/flawless-app-stories/gestures-and-animations-in-swiftui-195625b822c9) by Jihad Fayz
 
 
 <p align="center">

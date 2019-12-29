@@ -192,6 +192,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Creating Game of Life on iOS](https://medium.com/flawless-app-stories/creating-game-of-life-on-ios-73bd51b63430) by Arlind Aliu
 * [How you can build a private photo-sharing app in 30 minutes with Creo](https://medium.com/flawless-app-stories/how-you-can-build-a-private-photo-sharing-app-in-30-minutes-with-creo-7517e79df943) by Massimo Sgrelli
 * [Implementing Foldable, Map and FlatMap](https://medium.com/flawless-app-stories/foldable-map-and-flatmap-416dbd5ace36) by Tyrone Michael Avnit
+* [Building Movie Trailer App Using SwiftUI](https://medium.com/flawless-app-stories/building-movie-trailer-app-using-swiftui-5d4dc5497462) by Shankar Madeshvaran
 
 ## Image
 * [Image Cropping in Swift](https://medium.com/flawless-app-stories/image-cropping-swift-26dfb09d3eae) by Ashok Kumar

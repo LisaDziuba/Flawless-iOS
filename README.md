@@ -124,6 +124,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [Visualize Combine Magic with SwiftUI Part 3](https://medium.com/flawless-app-stories/visualize-combine-magic-with-swiftui-part-3-a3f0cc42bcc8) by Kevin Cheng
 * [Visualize Combine Magic with SwiftUI Part 5](https://medium.com/flawless-app-stories/visualize-combine-magic-with-swiftui-part-5-2783adddbd1d) by Kevin Cheng
 * [Building smart Q&A app with CoreML, SwiftUI, and Combine](https://medium.com/flawless-app-stories/building-smart-q-a-app-with-coreml-swiftui-and-combine-7c8f35b5d3c4) by Martin Mitrevski
+* [How to create custom Publisher in Combine](https://medium.com/flawless-app-stories/swift-combine-custom-publisher-6d1cc3dc248f) by Dmitry Lupich
 
 ## Concurrency
 * [Parallel Programming with Swift: What could possibly go wrong?](https://medium.com/flawless-app-stories/parallel-programming-with-swift-what-could-possibly-go-wrong-f5bcc38b1814) by Jan Olbrich

@@ -394,6 +394,7 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 * [SwiftUI Tutorial: Showing Badge on Tab Bar Item](https://medium.com/flawless-app-stories/swiftui-tutorial-showing-badge-on-tab-bar-item-d71e4075b67a) by Jihad Fayz
 * [Gestures and Animations in SwiftUI](https://medium.com/flawless-app-stories/gestures-and-animations-in-swiftui-195625b822c9) by Jihad Fayz
 * [SwiftUI: Movie Booking App, Part 2: Movie & Actor Detail View](https://medium.com/flawless-app-stories/swiftui-movie-booking-app-e6a6d8120246) by Liquidcoder
+* [Getting Started with SwiftUI](https://medium.com/flawless-app-stories/getting-started-with-swiftui-7fb8e66b98d6) by Nilay Keven
 
 
 <p align="center">

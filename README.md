@@ -477,5 +477,5 @@ We're proud to have more than 80 writers and 200+ free iOS guides published with
 </p>
 
 ## Addendum (Reference & Inspiration)
-Flawless iOS blog is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless App team. Huge thanks to our good friend [onmyway133](https://github.com/onmyway133) for all his help in making this repo. If you are Flawless iOS writer and want to add your article, feel free to create pull requests! And if you wish to become a writer, just share your Medium article\draft via a [form](https://flawlessapp.typeform.com/to/SLCB6n).
+Flawless iOS blog is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless App team. Huge thanks to our good friend [onmyway133](https://github.com/onmyway133) for all his help in making this repo. If you are Flawless iOS writer and want to add your article, feel free to create pull requests! And if you wish to become a writer, just share your Medium article\draft via a [form](https://flawlessapp.typeform.com/to/SLCB6n). Thanks
 
